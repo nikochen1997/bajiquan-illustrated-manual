@@ -24,9 +24,9 @@
 
 在 [Releases](https://github.com/nikochen1997/bajiquan-illustrated-manual/releases/tag/v1.0.0) 中：
 
-1. **先看成品**：下载“427张单姿势图与全部视频”ZIP，解压后打开 `八极拳完整篇/打开播放.html`，可切换章节、速度与逐帧查看。
+1. **先看成品**：下载“427张单姿势图与全部视频”ZIP，解压后打开 `打开播放.html`，可切换章节、速度与逐帧查看。
 2. **需要所有逐帧图**：下载两份“全部4857张逐帧图”ZIP，解压到同一目录。两份均为独立 ZIP，不是二进制分卷。
-3. **需要整个项目**：下载所有 `full-project-part-*.tar`。每份都是独立 TAR，逐份解压到同一空目录，即可还原 `work/`、`outputs/` 和 `external-generated-images/`。这包含早期样片、未采用原稿、中间画面、最终成品，以及相关工具安装包；其中历史重复文件按原路径保留。
+3. **需要整个项目**：下载所有 `full-project-*-part*.tar`。每份都是独立 TAR，逐份解压到同一空目录，即可还原 `work/`、`outputs/` 和 `external-generated-images/`。这包含早期样片、未采用原稿、中间画面、最终成品，以及相关工具安装包；其中历史重复文件按原路径保留。
 
 完整下载目录、逐文件 SHA-256 和各下载资产 SHA-256 随 Release 提供。`full-project-inventory.json` 记录原始文件；`publication-verification.json` 记录实际发布后的校验结果。操作审计临时目录与 macOS `.DS_Store` 不属于制作素材，不收入原始归档。
 
@@ -54,6 +54,6 @@
 
 ## 许可
 
-本项目自行编写的代码及可授权的原创生成图像、视频采用 [MIT License](LICENSE)。第三方演示资料、网页、字体、工具、模型、可执行文件及依赖不受根 MIT 许可重新授权，各自权利与原许可保留。参见 [第三方说明](NOTICE.md) 及 `third-party/`。
+本项目自行编写的代码及可授权的原创生成图像、视频采用 [MIT License](LICENSE)。第三方演示资料、网页、字体、工具、模型、可执行文件及依赖不受根 MIT 许可重新授权，各自权利与原许可保留。参见 [第三方说明](third-party/NOTICE.md) 及 `third-party/`。
 
 公开参考视频的引用不表示原作者认可本项目，也不表示已取得其原视频的再许可。
