@@ -1,0 +1,232 @@
+{
+  "controls": {
+    "id": "final-dense-routine-018",
+    "segment": "routine-018",
+    "frames": 15,
+    "output_frames": [
+      1,
+      15
+    ],
+    "original_boundary_keys": [
+      1,
+      2
+    ],
+    "page": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/generated/dense-routine-018.png",
+    "page_sha256": "40b6974f31550fae36381c634b96410eb355b75629a2444f81d16594244cf2ca",
+    "mapping": [
+      {
+        "cell": 1,
+        "source_seconds": 75.98328,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_b/frame_0190.jpg"
+      },
+      {
+        "cell": 2,
+        "source_seconds": 76.016666,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_dense/routine-018/frame_02.png"
+      },
+      {
+        "cell": 3,
+        "source_seconds": 76.049999,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_dense/routine-018/frame_03.png"
+      },
+      {
+        "cell": 4,
+        "source_seconds": 76.083332,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_dense/routine-018/frame_04.png"
+      },
+      {
+        "cell": 5,
+        "source_seconds": 76.116665,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_dense/routine-018/frame_05.png"
+      },
+      {
+        "cell": 6,
+        "source_seconds": 76.149998,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_dense/routine-018/frame_06.png"
+      },
+      {
+        "cell": 7,
+        "source_seconds": 76.183331,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_dense/routine-018/frame_07.png"
+      },
+      {
+        "cell": 8,
+        "source_seconds": 76.216664,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_dense/routine-018/frame_08.png"
+      },
+      {
+        "cell": 9,
+        "source_seconds": 76.249997,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_dense/routine-018/frame_09.png"
+      },
+      {
+        "cell": 10,
+        "source_seconds": 76.28333,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_dense/routine-018/frame_10.png"
+      },
+      {
+        "cell": 11,
+        "source_seconds": 76.316663,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_dense/routine-018/frame_11.png"
+      },
+      {
+        "cell": 12,
+        "source_seconds": 76.349996,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_dense/routine-018/frame_12.png"
+      },
+      {
+        "cell": 13,
+        "source_seconds": 76.383279,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_main_b/frame_0191.jpg"
+      }
+    ],
+    "scale": 1.4217687074829932,
+    "fixed_dx": 108.37726666484687,
+    "ground_y": 666.0,
+    "first_last_reused_from_original": true,
+    "note": "按同源同姿态首末锚估计两端画稿比例，随原片时码线性补偿绘图尺度漂移；中间图不按自身bbox缩放；仅已知支撑竖向落同基线。",
+    "external_plan_sha256": "dfcb4f882de003bd585a807b4a3c2cbab51512ba698fb658dd3744fb78b17f61",
+    "base_manifest_sha256": "6cd789aa10e736f6403eee7b2090268ea0bbd6b1fd62163e1e1d893423b971e7",
+    "registration": "boundary_affine",
+    "boundary_boxes": {
+      "generated": [
+        [
+          46.0,
+          27.0,
+          337.0,
+          321.0
+        ],
+        [
+          120.0,
+          22.0,
+          263.0,
+          307.0
+        ]
+      ],
+      "original": [
+        [
+          188.0,
+          248.0,
+          548.0,
+          666.0
+        ],
+        [
+          312.0,
+          241.0,
+          491.0,
+          666.0
+        ]
+      ]
+    }
+  },
+  "playback_mapping": [
+    {
+      "output_frame": 1,
+      "source_seconds": 75.98328,
+      "control_left": 1,
+      "control_right": 2,
+      "weight": 0.0
+    },
+    {
+      "output_frame": 2,
+      "source_seconds": 76.0118966,
+      "control_left": 1,
+      "control_right": 2,
+      "weight": 0.8571428571428571
+    },
+    {
+      "output_frame": 3,
+      "source_seconds": 76.0404753,
+      "control_left": 2,
+      "control_right": 3,
+      "weight": 0.7142857142857142
+    },
+    {
+      "output_frame": 4,
+      "source_seconds": 76.0690464,
+      "control_left": 3,
+      "control_right": 4,
+      "weight": 0.5714285714285716
+    },
+    {
+      "output_frame": 5,
+      "source_seconds": 76.0976176,
+      "control_left": 4,
+      "control_right": 5,
+      "weight": 0.4285714285714284
+    },
+    {
+      "output_frame": 6,
+      "source_seconds": 76.1261887,
+      "control_left": 5,
+      "control_right": 6,
+      "weight": 0.2857142857142856
+    },
+    {
+      "output_frame": 7,
+      "source_seconds": 76.1547599,
+      "control_left": 6,
+      "control_right": 7,
+      "weight": 0.14285714285714324
+    },
+    {
+      "output_frame": 8,
+      "source_seconds": 76.183331,
+      "control_left": 7,
+      "control_right": 8,
+      "weight": 0.0
+    },
+    {
+      "output_frame": 9,
+      "source_seconds": 76.2119021,
+      "control_left": 7,
+      "control_right": 8,
+      "weight": 0.8571428571428568
+    },
+    {
+      "output_frame": 10,
+      "source_seconds": 76.2404733,
+      "control_left": 8,
+      "control_right": 9,
+      "weight": 0.7142857142857144
+    },
+    {
+      "output_frame": 11,
+      "source_seconds": 76.2690444,
+      "control_left": 9,
+      "control_right": 10,
+      "weight": 0.5714285714285712
+    },
+    {
+      "output_frame": 12,
+      "source_seconds": 76.2976156,
+      "control_left": 10,
+      "control_right": 11,
+      "weight": 0.4285714285714288
+    },
+    {
+      "output_frame": 13,
+      "source_seconds": 76.3261867,
+      "control_left": 11,
+      "control_right": 12,
+      "weight": 0.2857142857142865
+    },
+    {
+      "output_frame": 14,
+      "source_seconds": 76.3547507,
+      "control_left": 12,
+      "control_right": 13,
+      "weight": 0.14285714285714235
+    },
+    {
+      "output_frame": 15,
+      "source_seconds": 76.383279,
+      "control_left": 13,
+      "control_right": 13,
+      "weight": 0.0
+    }
+  ],
+  "extra_images": 11,
+  "selected_key_image_count_unchanged": 342,
+  "total_playback_frames_unchanged": 4857
+}

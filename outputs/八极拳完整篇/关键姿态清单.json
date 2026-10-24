@@ -1,0 +1,3422 @@
+[
+  {
+    "序号": 1,
+    "文件名": "001_双抱拳.png",
+    "分招": "routine-001",
+    "动作": "双抱拳",
+    "类别": "routine",
+    "来源采样秒": 0,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0000.png"
+  },
+  {
+    "序号": 2,
+    "文件名": "002_双抱拳.png",
+    "分招": "routine-001",
+    "动作": "双抱拳",
+    "类别": "routine",
+    "来源采样秒": 0.399997,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0001.png"
+  },
+  {
+    "序号": 3,
+    "文件名": "003_双抱拳.png",
+    "分招": "routine-001",
+    "动作": "双抱拳",
+    "类别": "routine",
+    "来源采样秒": 0.799994,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0002.png"
+  },
+  {
+    "序号": 4,
+    "文件名": "004_双抱拳.png",
+    "分招": "routine-001",
+    "动作": "双抱拳",
+    "类别": "routine",
+    "来源采样秒": 1.199993,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0003.png"
+  },
+  {
+    "序号": 5,
+    "文件名": "005_双抱拳.png",
+    "分招": "routine-001",
+    "动作": "双抱拳",
+    "类别": "routine",
+    "来源采样秒": 1.599991,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0004.png"
+  },
+  {
+    "序号": 6,
+    "文件名": "006_双抱拳.png",
+    "分招": "routine-001",
+    "动作": "双抱拳",
+    "类别": "routine",
+    "来源采样秒": 1.99999,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0005.png"
+  },
+  {
+    "序号": 7,
+    "文件名": "007_双抱拳.png",
+    "分招": "routine-001",
+    "动作": "双抱拳",
+    "类别": "routine",
+    "来源采样秒": 2.399989,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0006.png"
+  },
+  {
+    "序号": 8,
+    "文件名": "008_双抱拳.png",
+    "分招": "routine-001",
+    "动作": "双抱拳",
+    "类别": "routine",
+    "来源采样秒": 2.799988,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0007.png"
+  },
+  {
+    "序号": 9,
+    "文件名": "009_双抱拳.png",
+    "分招": "routine-001",
+    "动作": "双抱拳",
+    "类别": "routine",
+    "来源采样秒": 3.199987,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0008.png"
+  },
+  {
+    "序号": 10,
+    "文件名": "010_双抱拳.png",
+    "分招": "routine-001",
+    "动作": "双抱拳",
+    "类别": "routine",
+    "来源采样秒": 3.599986,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0009.png"
+  },
+  {
+    "序号": 11,
+    "文件名": "011_双抱拳.png",
+    "分招": "routine-001",
+    "动作": "双抱拳",
+    "类别": "routine",
+    "来源采样秒": 3.999985,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0010.png"
+  },
+  {
+    "序号": 12,
+    "文件名": "012_屈膝双伸.png",
+    "分招": "routine-002",
+    "动作": "屈膝双伸",
+    "类别": "routine",
+    "来源采样秒": 4.399984,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0011.png"
+  },
+  {
+    "序号": 13,
+    "文件名": "013_屈膝双伸.png",
+    "分招": "routine-002",
+    "动作": "屈膝双伸",
+    "类别": "routine",
+    "来源采样秒": 4.799983,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0012.png"
+  },
+  {
+    "序号": 14,
+    "文件名": "014_屈膝双伸.png",
+    "分招": "routine-002",
+    "动作": "屈膝双伸",
+    "类别": "routine",
+    "来源采样秒": 5.199982,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0013.png"
+  },
+  {
+    "序号": 15,
+    "文件名": "015_屈膝双伸.png",
+    "分招": "routine-002",
+    "动作": "屈膝双伸",
+    "类别": "routine",
+    "来源采样秒": 5.599979,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0014.png"
+  },
+  {
+    "序号": 16,
+    "文件名": "016_屈膝双伸.png",
+    "分招": "routine-002",
+    "动作": "屈膝双伸",
+    "类别": "routine",
+    "来源采样秒": 5.999976,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0015.png"
+  },
+  {
+    "序号": 17,
+    "文件名": "017_屈膝双伸.png",
+    "分招": "routine-002",
+    "动作": "屈膝双伸",
+    "类别": "routine",
+    "来源采样秒": 6.399975,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0016.png"
+  },
+  {
+    "序号": 18,
+    "文件名": "018_屈膝双伸.png",
+    "分招": "routine-002",
+    "动作": "屈膝双伸",
+    "类别": "routine",
+    "来源采样秒": 6.799974,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0017.png"
+  },
+  {
+    "序号": 19,
+    "文件名": "019_屈膝双伸.png",
+    "分招": "routine-002",
+    "动作": "屈膝双伸",
+    "类别": "routine",
+    "来源采样秒": 7.199972,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0018.png"
+  },
+  {
+    "序号": 20,
+    "文件名": "020_屈膝双伸.png",
+    "分招": "routine-002",
+    "动作": "屈膝双伸",
+    "类别": "routine",
+    "来源采样秒": 7.599971,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0019.png"
+  },
+  {
+    "序号": 21,
+    "文件名": "021_屈膝双伸.png",
+    "分招": "routine-002",
+    "动作": "屈膝双伸",
+    "类别": "routine",
+    "来源采样秒": 7.99997,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0020.png"
+  },
+  {
+    "序号": 22,
+    "文件名": "022_屈膝双伸.png",
+    "分招": "routine-002",
+    "动作": "屈膝双伸",
+    "类别": "routine",
+    "来源采样秒": 8.39997,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0021.png"
+  },
+  {
+    "序号": 23,
+    "文件名": "023_屈膝双伸.png",
+    "分招": "routine-002",
+    "动作": "屈膝双伸",
+    "类别": "routine",
+    "来源采样秒": 8.799969,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0022.png"
+  },
+  {
+    "序号": 24,
+    "文件名": "024_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 9.199969,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0023.png"
+  },
+  {
+    "序号": 25,
+    "文件名": "025_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 9.599968,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0024.png"
+  },
+  {
+    "序号": 26,
+    "文件名": "026_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 9.999968,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0025.png"
+  },
+  {
+    "序号": 27,
+    "文件名": "027_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 10.399968,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0026.png"
+  },
+  {
+    "序号": 28,
+    "文件名": "028_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 10.799966,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0027.png"
+  },
+  {
+    "序号": 29,
+    "文件名": "029_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 11.199963,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0028.png"
+  },
+  {
+    "序号": 30,
+    "文件名": "030_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 11.599959,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0029.png"
+  },
+  {
+    "序号": 31,
+    "文件名": "031_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 11.999957,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0030.png"
+  },
+  {
+    "序号": 32,
+    "文件名": "032_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 12.399956,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0031.png"
+  },
+  {
+    "序号": 33,
+    "文件名": "033_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 12.799955,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0032.png"
+  },
+  {
+    "序号": 34,
+    "文件名": "034_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 13.199954,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0033.png"
+  },
+  {
+    "序号": 35,
+    "文件名": "035_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 13.599953,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0034.png"
+  },
+  {
+    "序号": 36,
+    "文件名": "036_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 13.999952,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0035.png"
+  },
+  {
+    "序号": 37,
+    "文件名": "037_左蹬腿.png",
+    "分招": "routine-003",
+    "动作": "左蹬腿",
+    "类别": "routine",
+    "来源采样秒": 14.399951,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0036.png"
+  },
+  {
+    "序号": 38,
+    "文件名": "038_右蹬腿.png",
+    "分招": "routine-004",
+    "动作": "右蹬腿",
+    "类别": "routine",
+    "来源采样秒": 14.79995,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0037.png"
+  },
+  {
+    "序号": 39,
+    "文件名": "039_右蹬腿.png",
+    "分招": "routine-004",
+    "动作": "右蹬腿",
+    "类别": "routine",
+    "来源采样秒": 15.19995,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0038.png"
+  },
+  {
+    "序号": 40,
+    "文件名": "040_右蹬腿.png",
+    "分招": "routine-004",
+    "动作": "右蹬腿",
+    "类别": "routine",
+    "来源采样秒": 15.599949,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0039.png"
+  },
+  {
+    "序号": 41,
+    "文件名": "041_右蹬腿.png",
+    "分招": "routine-004",
+    "动作": "右蹬腿",
+    "类别": "routine",
+    "来源采样秒": 15.999949,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0040.png"
+  },
+  {
+    "序号": 42,
+    "文件名": "042_右蹬腿.png",
+    "分招": "routine-004",
+    "动作": "右蹬腿",
+    "类别": "routine",
+    "来源采样秒": 16.399946,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0041.png"
+  },
+  {
+    "序号": 43,
+    "文件名": "043_右蹬腿.png",
+    "分招": "routine-004",
+    "动作": "右蹬腿",
+    "类别": "routine",
+    "来源采样秒": 16.799944,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0042.png"
+  },
+  {
+    "序号": 44,
+    "文件名": "044_右蹬腿.png",
+    "分招": "routine-004",
+    "动作": "右蹬腿",
+    "类别": "routine",
+    "来源采样秒": 17.199944,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0043.png"
+  },
+  {
+    "序号": 45,
+    "文件名": "045_右蹬腿.png",
+    "分招": "routine-004",
+    "动作": "右蹬腿",
+    "类别": "routine",
+    "来源采样秒": 17.599944,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0044.png"
+  },
+  {
+    "序号": 46,
+    "文件名": "046_右蹬腿.png",
+    "分招": "routine-004",
+    "动作": "右蹬腿",
+    "类别": "routine",
+    "来源采样秒": 17.999944,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0045.png"
+  },
+  {
+    "序号": 47,
+    "文件名": "047_右蹬腿.png",
+    "分招": "routine-004",
+    "动作": "右蹬腿",
+    "类别": "routine",
+    "来源采样秒": 18.399944,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0046.png"
+  },
+  {
+    "序号": 48,
+    "文件名": "048_右提膝.png",
+    "分招": "routine-005",
+    "动作": "右提膝",
+    "类别": "routine",
+    "来源采样秒": 18.799943,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0047.png"
+  },
+  {
+    "序号": 49,
+    "文件名": "049_右提膝.png",
+    "分招": "routine-005",
+    "动作": "右提膝",
+    "类别": "routine",
+    "来源采样秒": 19.199943,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0048.png"
+  },
+  {
+    "序号": 50,
+    "文件名": "050_右提膝.png",
+    "分招": "routine-005",
+    "动作": "右提膝",
+    "类别": "routine",
+    "来源采样秒": 19.599943,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0049.png"
+  },
+  {
+    "序号": 51,
+    "文件名": "051_右提膝.png",
+    "分招": "routine-005",
+    "动作": "右提膝",
+    "类别": "routine",
+    "来源采样秒": 19.999943,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0050.png"
+  },
+  {
+    "序号": 52,
+    "文件名": "052_右提膝.png",
+    "分招": "routine-005",
+    "动作": "右提膝",
+    "类别": "routine",
+    "来源采样秒": 20.399943,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0051.png"
+  },
+  {
+    "序号": 53,
+    "文件名": "053_右提膝.png",
+    "分招": "routine-005",
+    "动作": "右提膝",
+    "类别": "routine",
+    "来源采样秒": 20.799943,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0052.png"
+  },
+  {
+    "序号": 54,
+    "文件名": "054_右提膝.png",
+    "分招": "routine-005",
+    "动作": "右提膝",
+    "类别": "routine",
+    "来源采样秒": 21.199942,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0053.png"
+  },
+  {
+    "序号": 55,
+    "文件名": "055_右提膝.png",
+    "分招": "routine-005",
+    "动作": "右提膝",
+    "类别": "routine",
+    "来源采样秒": 21.599939,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0054.png"
+  },
+  {
+    "序号": 56,
+    "文件名": "056_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 21.999935,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0055.png"
+  },
+  {
+    "序号": 57,
+    "文件名": "057_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 22.399933,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0056.png"
+  },
+  {
+    "序号": 58,
+    "文件名": "058_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 22.79993,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0057.png"
+  },
+  {
+    "序号": 59,
+    "文件名": "059_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 23.19993,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0058.png"
+  },
+  {
+    "序号": 60,
+    "文件名": "060_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 23.599929,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0059.png"
+  },
+  {
+    "序号": 61,
+    "文件名": "061_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 23.999927,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0060.png"
+  },
+  {
+    "序号": 62,
+    "文件名": "062_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 24.399927,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0061.png"
+  },
+  {
+    "序号": 63,
+    "文件名": "063_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 24.799927,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0062.png"
+  },
+  {
+    "序号": 64,
+    "文件名": "064_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 25.199927,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0063.png"
+  },
+  {
+    "序号": 65,
+    "文件名": "065_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 25.599927,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0064.png"
+  },
+  {
+    "序号": 66,
+    "文件名": "066_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 25.999926,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0065.png"
+  },
+  {
+    "序号": 67,
+    "文件名": "067_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 26.399926,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0066.png"
+  },
+  {
+    "序号": 68,
+    "文件名": "068_顶心肘（一）.png",
+    "分招": "routine-006",
+    "动作": "顶心肘（一）",
+    "类别": "routine",
+    "来源采样秒": 26.799925,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0067.png"
+  },
+  {
+    "序号": 69,
+    "文件名": "069_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 27.199921,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0068.png"
+  },
+  {
+    "序号": 70,
+    "文件名": "070_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 27.599919,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0069.png"
+  },
+  {
+    "序号": 71,
+    "文件名": "071_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 27.999917,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0070.png"
+  },
+  {
+    "序号": 72,
+    "文件名": "072_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 28.399916,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0071.png"
+  },
+  {
+    "序号": 73,
+    "文件名": "073_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 28.799915,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0072.png"
+  },
+  {
+    "序号": 74,
+    "文件名": "074_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 29.199915,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0073.png"
+  },
+  {
+    "序号": 75,
+    "文件名": "075_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 29.599915,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0074.png"
+  },
+  {
+    "序号": 76,
+    "文件名": "076_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 29.999915,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0075.png"
+  },
+  {
+    "序号": 77,
+    "文件名": "077_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 30.399915,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0076.png"
+  },
+  {
+    "序号": 78,
+    "文件名": "078_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 30.799915,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0077.png"
+  },
+  {
+    "序号": 79,
+    "文件名": "079_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 31.199915,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0078.png"
+  },
+  {
+    "序号": 80,
+    "文件名": "080_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 31.599915,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0079.png"
+  },
+  {
+    "序号": 81,
+    "文件名": "081_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 31.999915,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0080.png"
+  },
+  {
+    "序号": 82,
+    "文件名": "082_黑虎偷心.png",
+    "分招": "routine-007",
+    "动作": "黑虎偷心",
+    "类别": "routine",
+    "来源采样秒": 32.399907,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0081.png"
+  },
+  {
+    "序号": 83,
+    "文件名": "083_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 32.799898,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0082.png"
+  },
+  {
+    "序号": 84,
+    "文件名": "084_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 33.199896,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0083.png"
+  },
+  {
+    "序号": 85,
+    "文件名": "085_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 33.599895,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0084.png"
+  },
+  {
+    "序号": 86,
+    "文件名": "086_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 33.999894,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0085.png"
+  },
+  {
+    "序号": 87,
+    "文件名": "087_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 34.399893,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0086.png"
+  },
+  {
+    "序号": 88,
+    "文件名": "088_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 34.799892,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0087.png"
+  },
+  {
+    "序号": 89,
+    "文件名": "089_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 35.199891,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0088.png"
+  },
+  {
+    "序号": 90,
+    "文件名": "090_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 35.59989,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0089.png"
+  },
+  {
+    "序号": 91,
+    "文件名": "091_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 35.999889,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0090.png"
+  },
+  {
+    "序号": 92,
+    "文件名": "092_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 36.399888,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0091.png"
+  },
+  {
+    "序号": 93,
+    "文件名": "093_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 36.799887,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0092.png"
+  },
+  {
+    "序号": 94,
+    "文件名": "094_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 37.199886,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0093.png"
+  },
+  {
+    "序号": 95,
+    "文件名": "095_蟒蛇缠身.png",
+    "分招": "routine-008",
+    "动作": "蟒蛇缠身",
+    "类别": "routine",
+    "来源采样秒": 37.599883,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0094.png"
+  },
+  {
+    "序号": 96,
+    "文件名": "096_虚步探掌.png",
+    "分招": "routine-009",
+    "动作": "虚步探掌",
+    "类别": "routine",
+    "来源采样秒": 37.99988,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0095.png"
+  },
+  {
+    "序号": 97,
+    "文件名": "097_虚步探掌.png",
+    "分招": "routine-009",
+    "动作": "虚步探掌",
+    "类别": "routine",
+    "来源采样秒": 38.399879,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0096.png"
+  },
+  {
+    "序号": 98,
+    "文件名": "098_虚步探掌.png",
+    "分招": "routine-009",
+    "动作": "虚步探掌",
+    "类别": "routine",
+    "来源采样秒": 38.799877,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0097.png"
+  },
+  {
+    "序号": 99,
+    "文件名": "099_虚步探掌.png",
+    "分招": "routine-009",
+    "动作": "虚步探掌",
+    "类别": "routine",
+    "来源采样秒": 39.199875,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0098.png"
+  },
+  {
+    "序号": 100,
+    "文件名": "100_虚步探掌.png",
+    "分招": "routine-009",
+    "动作": "虚步探掌",
+    "类别": "routine",
+    "来源采样秒": 39.599874,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0099.png"
+  },
+  {
+    "序号": 101,
+    "文件名": "101_虚步探掌.png",
+    "分招": "routine-009",
+    "动作": "虚步探掌",
+    "类别": "routine",
+    "来源采样秒": 39.999873,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0100.png"
+  },
+  {
+    "序号": 102,
+    "文件名": "102_虚步探掌.png",
+    "分招": "routine-009",
+    "动作": "虚步探掌",
+    "类别": "routine",
+    "来源采样秒": 40.399872,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0101.png"
+  },
+  {
+    "序号": 103,
+    "文件名": "103_虚步探掌.png",
+    "分招": "routine-009",
+    "动作": "虚步探掌",
+    "类别": "routine",
+    "来源采样秒": 40.799871,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0102.png"
+  },
+  {
+    "序号": 104,
+    "文件名": "104_虚步探掌.png",
+    "分招": "routine-009",
+    "动作": "虚步探掌",
+    "类别": "routine",
+    "来源采样秒": 41.19987,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0103.png"
+  },
+  {
+    "序号": 105,
+    "文件名": "105_虚步探掌.png",
+    "分招": "routine-009",
+    "动作": "虚步探掌",
+    "类别": "routine",
+    "来源采样秒": 41.599869,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0104.png"
+  },
+  {
+    "序号": 106,
+    "文件名": "106_虚步探掌.png",
+    "分招": "routine-009",
+    "动作": "虚步探掌",
+    "类别": "routine",
+    "来源采样秒": 41.999868,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0105.png"
+  },
+  {
+    "序号": 107,
+    "文件名": "107_虚步探掌.png",
+    "分招": "routine-009",
+    "动作": "虚步探掌",
+    "类别": "routine",
+    "来源采样秒": 42.399867,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0106.png"
+  },
+  {
+    "序号": 108,
+    "文件名": "108_托塔.png",
+    "分招": "routine-010",
+    "动作": "托塔",
+    "类别": "routine",
+    "来源采样秒": 42.799866,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0107.png"
+  },
+  {
+    "序号": 109,
+    "文件名": "109_托塔.png",
+    "分招": "routine-010",
+    "动作": "托塔",
+    "类别": "routine",
+    "来源采样秒": 43.199863,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0108.png"
+  },
+  {
+    "序号": 110,
+    "文件名": "110_托塔.png",
+    "分招": "routine-010",
+    "动作": "托塔",
+    "类别": "routine",
+    "来源采样秒": 43.599861,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0109.png"
+  },
+  {
+    "序号": 111,
+    "文件名": "111_托塔.png",
+    "分招": "routine-010",
+    "动作": "托塔",
+    "类别": "routine",
+    "来源采样秒": 43.99986,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0110.png"
+  },
+  {
+    "序号": 112,
+    "文件名": "112_托塔.png",
+    "分招": "routine-010",
+    "动作": "托塔",
+    "类别": "routine",
+    "来源采样秒": 44.399859,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0111.png"
+  },
+  {
+    "序号": 113,
+    "文件名": "113_托塔.png",
+    "分招": "routine-010",
+    "动作": "托塔",
+    "类别": "routine",
+    "来源采样秒": 44.799858,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0112.png"
+  },
+  {
+    "序号": 114,
+    "文件名": "114_托塔.png",
+    "分招": "routine-010",
+    "动作": "托塔",
+    "类别": "routine",
+    "来源采样秒": 45.199857,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0113.png"
+  },
+  {
+    "序号": 115,
+    "文件名": "115_托塔.png",
+    "分招": "routine-010",
+    "动作": "托塔",
+    "类别": "routine",
+    "来源采样秒": 45.599856,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0114.png"
+  },
+  {
+    "序号": 116,
+    "文件名": "116_托塔.png",
+    "分招": "routine-010",
+    "动作": "托塔",
+    "类别": "routine",
+    "来源采样秒": 45.999855,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0115.png"
+  },
+  {
+    "序号": 117,
+    "文件名": "117_托塔.png",
+    "分招": "routine-010",
+    "动作": "托塔",
+    "类别": "routine",
+    "来源采样秒": 46.399854,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0116.png"
+  },
+  {
+    "序号": 118,
+    "文件名": "118_托塔.png",
+    "分招": "routine-010",
+    "动作": "托塔",
+    "类别": "routine",
+    "来源采样秒": 46.799853,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0117.png"
+  },
+  {
+    "序号": 119,
+    "文件名": "119_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 47.199852,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0118.png"
+  },
+  {
+    "序号": 120,
+    "文件名": "120_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 47.599851,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0119.png"
+  },
+  {
+    "序号": 121,
+    "文件名": "121_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 47.99985,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0120.png"
+  },
+  {
+    "序号": 122,
+    "文件名": "122_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 48.399846,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0121.png"
+  },
+  {
+    "序号": 123,
+    "文件名": "123_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 48.799845,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0122.png"
+  },
+  {
+    "序号": 124,
+    "文件名": "124_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 49.199843,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0123.png"
+  },
+  {
+    "序号": 125,
+    "文件名": "125_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 49.599842,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0124.png"
+  },
+  {
+    "序号": 126,
+    "文件名": "126_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 49.999841,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0125.png"
+  },
+  {
+    "序号": 127,
+    "文件名": "127_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 50.39984,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0126.png"
+  },
+  {
+    "序号": 128,
+    "文件名": "128_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 50.799839,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0127.png"
+  },
+  {
+    "序号": 129,
+    "文件名": "129_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 51.199838,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0128.png"
+  },
+  {
+    "序号": 130,
+    "文件名": "130_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 51.599837,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0129.png"
+  },
+  {
+    "序号": 131,
+    "文件名": "131_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 51.999836,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0130.png"
+  },
+  {
+    "序号": 132,
+    "文件名": "132_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 52.399835,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0131.png"
+  },
+  {
+    "序号": 133,
+    "文件名": "133_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 52.799834,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0132.png"
+  },
+  {
+    "序号": 134,
+    "文件名": "134_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 53.199833,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0133.png"
+  },
+  {
+    "序号": 135,
+    "文件名": "135_白鹤亮翅.png",
+    "分招": "routine-011",
+    "动作": "白鹤亮翅",
+    "类别": "routine",
+    "来源采样秒": 53.599831,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0134.png"
+  },
+  {
+    "序号": 136,
+    "文件名": "136_闭裆捶.png",
+    "分招": "routine-012",
+    "动作": "闭裆捶",
+    "类别": "routine",
+    "来源采样秒": 53.99983,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0135.png"
+  },
+  {
+    "序号": 137,
+    "文件名": "137_闭裆捶.png",
+    "分招": "routine-012",
+    "动作": "闭裆捶",
+    "类别": "routine",
+    "来源采样秒": 54.399829,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0136.png"
+  },
+  {
+    "序号": 138,
+    "文件名": "138_闭裆捶.png",
+    "分招": "routine-012",
+    "动作": "闭裆捶",
+    "类别": "routine",
+    "来源采样秒": 54.799828,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0137.png"
+  },
+  {
+    "序号": 139,
+    "文件名": "139_闭裆捶.png",
+    "分招": "routine-012",
+    "动作": "闭裆捶",
+    "类别": "routine",
+    "来源采样秒": 55.199826,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0138.png"
+  },
+  {
+    "序号": 140,
+    "文件名": "140_闭裆捶.png",
+    "分招": "routine-012",
+    "动作": "闭裆捶",
+    "类别": "routine",
+    "来源采样秒": 55.599825,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0139.png"
+  },
+  {
+    "序号": 141,
+    "文件名": "141_闭裆捶.png",
+    "分招": "routine-012",
+    "动作": "闭裆捶",
+    "类别": "routine",
+    "来源采样秒": 55.999824,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0140.png"
+  },
+  {
+    "序号": 142,
+    "文件名": "142_闭裆捶.png",
+    "分招": "routine-012",
+    "动作": "闭裆捶",
+    "类别": "routine",
+    "来源采样秒": 56.399823,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0141.png"
+  },
+  {
+    "序号": 143,
+    "文件名": "143_搋捶.png",
+    "分招": "routine-013",
+    "动作": "搋捶",
+    "类别": "routine",
+    "来源采样秒": 56.799822,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0142.png"
+  },
+  {
+    "序号": 144,
+    "文件名": "144_搋捶.png",
+    "分招": "routine-013",
+    "动作": "搋捶",
+    "类别": "routine",
+    "来源采样秒": 57.199821,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0143.png"
+  },
+  {
+    "序号": 145,
+    "文件名": "145_搋捶.png",
+    "分招": "routine-013",
+    "动作": "搋捶",
+    "类别": "routine",
+    "来源采样秒": 57.59982,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0144.png"
+  },
+  {
+    "序号": 146,
+    "文件名": "146_搋捶.png",
+    "分招": "routine-013",
+    "动作": "搋捶",
+    "类别": "routine",
+    "来源采样秒": 57.999819,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0145.png"
+  },
+  {
+    "序号": 147,
+    "文件名": "147_搋捶.png",
+    "分招": "routine-013",
+    "动作": "搋捶",
+    "类别": "routine",
+    "来源采样秒": 58.399818,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0146.png"
+  },
+  {
+    "序号": 148,
+    "文件名": "148_搋捶.png",
+    "分招": "routine-013",
+    "动作": "搋捶",
+    "类别": "routine",
+    "来源采样秒": 58.799816,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0147.png"
+  },
+  {
+    "序号": 149,
+    "文件名": "149_搋捶.png",
+    "分招": "routine-013",
+    "动作": "搋捶",
+    "类别": "routine",
+    "来源采样秒": 59.199812,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0148.png"
+  },
+  {
+    "序号": 150,
+    "文件名": "150_搋捶.png",
+    "分招": "routine-013",
+    "动作": "搋捶",
+    "类别": "routine",
+    "来源采样秒": 59.599809,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0149.png"
+  },
+  {
+    "序号": 151,
+    "文件名": "151_搋捶.png",
+    "分招": "routine-013",
+    "动作": "搋捶",
+    "类别": "routine",
+    "来源采样秒": 59.999808,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0150.png"
+  },
+  {
+    "序号": 152,
+    "文件名": "152_搋捶.png",
+    "分招": "routine-013",
+    "动作": "搋捶",
+    "类别": "routine",
+    "来源采样秒": 60.399807,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0151.png"
+  },
+  {
+    "序号": 153,
+    "文件名": "153_顶心肘（二）.png",
+    "分招": "routine-014",
+    "动作": "顶心肘（二）",
+    "类别": "routine",
+    "来源采样秒": 60.799804,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0152.png"
+  },
+  {
+    "序号": 154,
+    "文件名": "154_顶心肘（二）.png",
+    "分招": "routine-014",
+    "动作": "顶心肘（二）",
+    "类别": "routine",
+    "来源采样秒": 61.1998,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0153.png"
+  },
+  {
+    "序号": 155,
+    "文件名": "155_顶心肘（二）.png",
+    "分招": "routine-014",
+    "动作": "顶心肘（二）",
+    "类别": "routine",
+    "来源采样秒": 61.599798,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "a-main_a_0154.png"
+  },
+  {
+    "序号": 156,
+    "文件名": "156_顶心肘（二）.png",
+    "分招": "routine-014",
+    "动作": "顶心肘（二）",
+    "类别": "routine",
+    "来源采样秒": 61.983333,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0155.jpg"
+  },
+  {
+    "序号": 157,
+    "文件名": "157_顶心肘（二）.png",
+    "分招": "routine-014",
+    "动作": "顶心肘（二）",
+    "类别": "routine",
+    "来源采样秒": 62.383332,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0156.jpg"
+  },
+  {
+    "序号": 158,
+    "文件名": "158_顶心肘（二）.png",
+    "分招": "routine-014",
+    "动作": "顶心肘（二）",
+    "类别": "routine",
+    "来源采样秒": 62.783331,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0157.jpg"
+  },
+  {
+    "序号": 159,
+    "文件名": "159_顶心肘（二）.png",
+    "分招": "routine-014",
+    "动作": "顶心肘（二）",
+    "类别": "routine",
+    "来源采样秒": 63.18333,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0158.jpg"
+  },
+  {
+    "序号": 160,
+    "文件名": "160_顶心肘（二）.png",
+    "分招": "routine-014",
+    "动作": "顶心肘（二）",
+    "类别": "routine",
+    "来源采样秒": 63.583329,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0159.jpg"
+  },
+  {
+    "序号": 161,
+    "文件名": "161_顶心肘（二）.png",
+    "分招": "routine-014",
+    "动作": "顶心肘（二）",
+    "类别": "routine",
+    "来源采样秒": 63.983328,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0160.jpg"
+  },
+  {
+    "序号": 162,
+    "文件名": "162_顶心肘（二）.png",
+    "分招": "routine-014",
+    "动作": "顶心肘（二）",
+    "类别": "routine",
+    "来源采样秒": 64.383326,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0161.jpg"
+  },
+  {
+    "序号": 163,
+    "文件名": "163_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 64.783322,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0162.jpg"
+  },
+  {
+    "序号": 164,
+    "文件名": "164_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 65.183313,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0163.jpg"
+  },
+  {
+    "序号": 165,
+    "文件名": "165_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 65.583312,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0164.jpg"
+  },
+  {
+    "序号": 166,
+    "文件名": "166_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 65.983311,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0165.jpg"
+  },
+  {
+    "序号": 167,
+    "文件名": "167_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 66.383309,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0166.jpg"
+  },
+  {
+    "序号": 168,
+    "文件名": "168_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 66.783308,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0167.jpg"
+  },
+  {
+    "序号": 169,
+    "文件名": "169_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 67.183307,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0168.jpg"
+  },
+  {
+    "序号": 170,
+    "文件名": "170_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 67.583306,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0169.jpg"
+  },
+  {
+    "序号": 171,
+    "文件名": "171_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 67.983305,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0170.jpg"
+  },
+  {
+    "序号": 172,
+    "文件名": "172_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 68.383304,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0171.jpg"
+  },
+  {
+    "序号": 173,
+    "文件名": "173_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 68.783303,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0172.jpg"
+  },
+  {
+    "序号": 174,
+    "文件名": "174_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 69.183302,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0173.jpg"
+  },
+  {
+    "序号": 175,
+    "文件名": "175_马步双栽.png",
+    "分招": "routine-015",
+    "动作": "马步双栽",
+    "类别": "routine",
+    "来源采样秒": 69.583299,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0174.jpg"
+  },
+  {
+    "序号": 176,
+    "文件名": "176_大缠丝.png",
+    "分招": "routine-016",
+    "动作": "大缠丝",
+    "类别": "routine",
+    "来源采样秒": 69.983297,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0175.jpg"
+  },
+  {
+    "序号": 177,
+    "文件名": "177_大缠丝.png",
+    "分招": "routine-016",
+    "动作": "大缠丝",
+    "类别": "routine",
+    "来源采样秒": 70.383296,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0176.jpg"
+  },
+  {
+    "序号": 178,
+    "文件名": "178_大缠丝.png",
+    "分招": "routine-016",
+    "动作": "大缠丝",
+    "类别": "routine",
+    "来源采样秒": 70.783295,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0177.jpg"
+  },
+  {
+    "序号": 179,
+    "文件名": "179_大缠丝.png",
+    "分招": "routine-016",
+    "动作": "大缠丝",
+    "类别": "routine",
+    "来源采样秒": 71.183294,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0178.jpg"
+  },
+  {
+    "序号": 180,
+    "文件名": "180_大缠丝.png",
+    "分招": "routine-016",
+    "动作": "大缠丝",
+    "类别": "routine",
+    "来源采样秒": 71.583293,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0179.jpg"
+  },
+  {
+    "序号": 181,
+    "文件名": "181_大缠丝.png",
+    "分招": "routine-016",
+    "动作": "大缠丝",
+    "类别": "routine",
+    "来源采样秒": 71.983292,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0180.jpg"
+  },
+  {
+    "序号": 182,
+    "文件名": "182_大缠丝.png",
+    "分招": "routine-016",
+    "动作": "大缠丝",
+    "类别": "routine",
+    "来源采样秒": 72.383291,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0181.jpg"
+  },
+  {
+    "序号": 183,
+    "文件名": "183_大缠丝.png",
+    "分招": "routine-016",
+    "动作": "大缠丝",
+    "类别": "routine",
+    "来源采样秒": 72.78329,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0182.jpg"
+  },
+  {
+    "序号": 184,
+    "文件名": "184_大缠丝.png",
+    "分招": "routine-016",
+    "动作": "大缠丝",
+    "类别": "routine",
+    "来源采样秒": 73.183289,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0183.jpg"
+  },
+  {
+    "序号": 185,
+    "文件名": "185_弸捶.png",
+    "分招": "routine-017",
+    "动作": "弸捶",
+    "类别": "routine",
+    "来源采样秒": 73.583288,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0184.jpg"
+  },
+  {
+    "序号": 186,
+    "文件名": "186_弸捶.png",
+    "分招": "routine-017",
+    "动作": "弸捶",
+    "类别": "routine",
+    "来源采样秒": 73.983287,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0185.jpg"
+  },
+  {
+    "序号": 187,
+    "文件名": "187_弸捶.png",
+    "分招": "routine-017",
+    "动作": "弸捶",
+    "类别": "routine",
+    "来源采样秒": 74.383286,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0186.jpg"
+  },
+  {
+    "序号": 188,
+    "文件名": "188_弸捶.png",
+    "分招": "routine-017",
+    "动作": "弸捶",
+    "类别": "routine",
+    "来源采样秒": 74.783285,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0187.jpg"
+  },
+  {
+    "序号": 189,
+    "文件名": "189_弸捶.png",
+    "分招": "routine-017",
+    "动作": "弸捶",
+    "类别": "routine",
+    "来源采样秒": 75.183282,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0188.jpg"
+  },
+  {
+    "序号": 190,
+    "文件名": "190_弸捶.png",
+    "分招": "routine-017",
+    "动作": "弸捶",
+    "类别": "routine",
+    "来源采样秒": 75.583281,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0189.jpg"
+  },
+  {
+    "序号": 191,
+    "文件名": "191_弸捶.png",
+    "分招": "routine-017",
+    "动作": "弸捶",
+    "类别": "routine",
+    "来源采样秒": 75.98328,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0190.jpg"
+  },
+  {
+    "序号": 192,
+    "文件名": "192_拗步捶.png",
+    "分招": "routine-018",
+    "动作": "拗步捶",
+    "类别": "routine",
+    "来源采样秒": 76.383279,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0191.jpg"
+  },
+  {
+    "序号": 193,
+    "文件名": "193_拗步捶.png",
+    "分招": "routine-018",
+    "动作": "拗步捶",
+    "类别": "routine",
+    "来源采样秒": 76.783278,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0192.jpg"
+  },
+  {
+    "序号": 194,
+    "文件名": "194_拗步捶.png",
+    "分招": "routine-018",
+    "动作": "拗步捶",
+    "类别": "routine",
+    "来源采样秒": 77.183277,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0193.jpg"
+  },
+  {
+    "序号": 195,
+    "文件名": "195_拗步捶.png",
+    "分招": "routine-018",
+    "动作": "拗步捶",
+    "类别": "routine",
+    "来源采样秒": 77.583276,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0194.jpg"
+  },
+  {
+    "序号": 196,
+    "文件名": "196_拗步捶.png",
+    "分招": "routine-018",
+    "动作": "拗步捶",
+    "类别": "routine",
+    "来源采样秒": 77.983274,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0195.jpg"
+  },
+  {
+    "序号": 197,
+    "文件名": "197_右小缠丝.png",
+    "分招": "routine-019",
+    "动作": "右小缠丝",
+    "类别": "routine",
+    "来源采样秒": 78.383273,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0196.jpg"
+  },
+  {
+    "序号": 198,
+    "文件名": "198_右小缠丝.png",
+    "分招": "routine-019",
+    "动作": "右小缠丝",
+    "类别": "routine",
+    "来源采样秒": 78.783272,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0197.jpg"
+  },
+  {
+    "序号": 199,
+    "文件名": "199_右小缠丝.png",
+    "分招": "routine-019",
+    "动作": "右小缠丝",
+    "类别": "routine",
+    "来源采样秒": 79.18327,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0198.jpg"
+  },
+  {
+    "序号": 200,
+    "文件名": "200_右小缠丝.png",
+    "分招": "routine-019",
+    "动作": "右小缠丝",
+    "类别": "routine",
+    "来源采样秒": 79.583269,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0199.jpg"
+  },
+  {
+    "序号": 201,
+    "文件名": "201_右小缠丝.png",
+    "分招": "routine-019",
+    "动作": "右小缠丝",
+    "类别": "routine",
+    "来源采样秒": 79.983268,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0200.jpg"
+  },
+  {
+    "序号": 202,
+    "文件名": "202_右弓步冲捶.png",
+    "分招": "routine-020",
+    "动作": "右弓步冲捶",
+    "类别": "routine",
+    "来源采样秒": 80.383264,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0201.jpg"
+  },
+  {
+    "序号": 203,
+    "文件名": "203_右弓步冲捶.png",
+    "分招": "routine-020",
+    "动作": "右弓步冲捶",
+    "类别": "routine",
+    "来源采样秒": 80.783262,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0202.jpg"
+  },
+  {
+    "序号": 204,
+    "文件名": "204_右弓步冲捶.png",
+    "分招": "routine-020",
+    "动作": "右弓步冲捶",
+    "类别": "routine",
+    "来源采样秒": 81.183261,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0203.jpg"
+  },
+  {
+    "序号": 205,
+    "文件名": "205_右弓步冲捶.png",
+    "分招": "routine-020",
+    "动作": "右弓步冲捶",
+    "类别": "routine",
+    "来源采样秒": 81.58326,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0204.jpg"
+  },
+  {
+    "序号": 206,
+    "文件名": "206_右弓步冲捶.png",
+    "分招": "routine-020",
+    "动作": "右弓步冲捶",
+    "类别": "routine",
+    "来源采样秒": 81.983259,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0205.jpg"
+  },
+  {
+    "序号": 207,
+    "文件名": "207_马步冲捶.png",
+    "分招": "routine-021",
+    "动作": "马步冲捶",
+    "类别": "routine",
+    "来源采样秒": 82.383258,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0206.jpg"
+  },
+  {
+    "序号": 208,
+    "文件名": "208_马步冲捶.png",
+    "分招": "routine-021",
+    "动作": "马步冲捶",
+    "类别": "routine",
+    "来源采样秒": 82.783257,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0207.jpg"
+  },
+  {
+    "序号": 209,
+    "文件名": "209_马步冲捶.png",
+    "分招": "routine-021",
+    "动作": "马步冲捶",
+    "类别": "routine",
+    "来源采样秒": 83.183256,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0208.jpg"
+  },
+  {
+    "序号": 210,
+    "文件名": "210_转身撩捶.png",
+    "分招": "routine-022",
+    "动作": "转身撩捶",
+    "类别": "routine",
+    "来源采样秒": 83.583255,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0209.jpg"
+  },
+  {
+    "序号": 211,
+    "文件名": "211_转身撩捶.png",
+    "分招": "routine-022",
+    "动作": "转身撩捶",
+    "类别": "routine",
+    "来源采样秒": 83.983254,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0210.jpg"
+  },
+  {
+    "序号": 212,
+    "文件名": "212_转身撩捶.png",
+    "分招": "routine-022",
+    "动作": "转身撩捶",
+    "类别": "routine",
+    "来源采样秒": 84.383253,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0211.jpg"
+  },
+  {
+    "序号": 213,
+    "文件名": "213_转身撩捶.png",
+    "分招": "routine-022",
+    "动作": "转身撩捶",
+    "类别": "routine",
+    "来源采样秒": 84.783251,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0212.jpg"
+  },
+  {
+    "序号": 214,
+    "文件名": "214_转身撩捶.png",
+    "分招": "routine-022",
+    "动作": "转身撩捶",
+    "类别": "routine",
+    "来源采样秒": 85.18325,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0213.jpg"
+  },
+  {
+    "序号": 215,
+    "文件名": "215_左小缠丝.png",
+    "分招": "routine-023",
+    "动作": "左小缠丝",
+    "类别": "routine",
+    "来源采样秒": 85.583249,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0214.jpg"
+  },
+  {
+    "序号": 216,
+    "文件名": "216_左小缠丝.png",
+    "分招": "routine-023",
+    "动作": "左小缠丝",
+    "类别": "routine",
+    "来源采样秒": 85.983248,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0215.jpg"
+  },
+  {
+    "序号": 217,
+    "文件名": "217_左小缠丝.png",
+    "分招": "routine-023",
+    "动作": "左小缠丝",
+    "类别": "routine",
+    "来源采样秒": 86.383245,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0216.jpg"
+  },
+  {
+    "序号": 218,
+    "文件名": "218_左小缠丝.png",
+    "分招": "routine-023",
+    "动作": "左小缠丝",
+    "类别": "routine",
+    "来源采样秒": 86.783243,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0217.jpg"
+  },
+  {
+    "序号": 219,
+    "文件名": "219_左小缠丝.png",
+    "分招": "routine-023",
+    "动作": "左小缠丝",
+    "类别": "routine",
+    "来源采样秒": 87.183242,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0218.jpg"
+  },
+  {
+    "序号": 220,
+    "文件名": "220_左小缠丝.png",
+    "分招": "routine-023",
+    "动作": "左小缠丝",
+    "类别": "routine",
+    "来源采样秒": 87.583241,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0219.jpg"
+  },
+  {
+    "序号": 221,
+    "文件名": "221_左小缠丝.png",
+    "分招": "routine-023",
+    "动作": "左小缠丝",
+    "类别": "routine",
+    "来源采样秒": 87.98324,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0220.jpg"
+  },
+  {
+    "序号": 222,
+    "文件名": "222_左弓步冲捶.png",
+    "分招": "routine-024",
+    "动作": "左弓步冲捶",
+    "类别": "routine",
+    "来源采样秒": 88.383239,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0221.jpg"
+  },
+  {
+    "序号": 223,
+    "文件名": "223_左弓步冲捶.png",
+    "分招": "routine-024",
+    "动作": "左弓步冲捶",
+    "类别": "routine",
+    "来源采样秒": 88.783238,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0222.jpg"
+  },
+  {
+    "序号": 224,
+    "文件名": "224_左弓步冲捶.png",
+    "分招": "routine-024",
+    "动作": "左弓步冲捶",
+    "类别": "routine",
+    "来源采样秒": 89.183237,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0223.jpg"
+  },
+  {
+    "序号": 225,
+    "文件名": "225_左弓步冲捶.png",
+    "分招": "routine-024",
+    "动作": "左弓步冲捶",
+    "类别": "routine",
+    "来源采样秒": 89.583236,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0224.jpg"
+  },
+  {
+    "序号": 226,
+    "文件名": "226_左弓步冲捶.png",
+    "分招": "routine-024",
+    "动作": "左弓步冲捶",
+    "类别": "routine",
+    "来源采样秒": 89.983235,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0225.jpg"
+  },
+  {
+    "序号": 227,
+    "文件名": "227_封面掌.png",
+    "分招": "routine-025",
+    "动作": "封面掌",
+    "类别": "routine",
+    "来源采样秒": 90.383234,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0226.jpg"
+  },
+  {
+    "序号": 228,
+    "文件名": "228_封面掌.png",
+    "分招": "routine-025",
+    "动作": "封面掌",
+    "类别": "routine",
+    "来源采样秒": 90.783233,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0227.jpg"
+  },
+  {
+    "序号": 229,
+    "文件名": "229_封面掌.png",
+    "分招": "routine-025",
+    "动作": "封面掌",
+    "类别": "routine",
+    "来源采样秒": 91.18323,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0228.jpg"
+  },
+  {
+    "序号": 230,
+    "文件名": "230_封面掌.png",
+    "分招": "routine-025",
+    "动作": "封面掌",
+    "类别": "routine",
+    "来源采样秒": 91.583229,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0229.jpg"
+  },
+  {
+    "序号": 231,
+    "文件名": "231_封面掌.png",
+    "分招": "routine-025",
+    "动作": "封面掌",
+    "类别": "routine",
+    "来源采样秒": 91.983228,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0230.jpg"
+  },
+  {
+    "序号": 232,
+    "文件名": "232_封面掌.png",
+    "分招": "routine-025",
+    "动作": "封面掌",
+    "类别": "routine",
+    "来源采样秒": 92.383227,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0231.jpg"
+  },
+  {
+    "序号": 233,
+    "文件名": "233_舍身下式.png",
+    "分招": "routine-026",
+    "动作": "舍身下式",
+    "类别": "routine",
+    "来源采样秒": 92.783226,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0232.jpg"
+  },
+  {
+    "序号": 234,
+    "文件名": "234_舍身下式.png",
+    "分招": "routine-026",
+    "动作": "舍身下式",
+    "类别": "routine",
+    "来源采样秒": 93.183225,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0233.jpg"
+  },
+  {
+    "序号": 235,
+    "文件名": "235_舍身下式.png",
+    "分招": "routine-026",
+    "动作": "舍身下式",
+    "类别": "routine",
+    "来源采样秒": 93.583224,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0234.jpg"
+  },
+  {
+    "序号": 236,
+    "文件名": "236_舍身下式.png",
+    "分招": "routine-026",
+    "动作": "舍身下式",
+    "类别": "routine",
+    "来源采样秒": 93.983223,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0235.jpg"
+  },
+  {
+    "序号": 237,
+    "文件名": "237_舍身下式.png",
+    "分招": "routine-026",
+    "动作": "舍身下式",
+    "类别": "routine",
+    "来源采样秒": 94.383222,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0236.jpg"
+  },
+  {
+    "序号": 238,
+    "文件名": "238_舍身下式.png",
+    "分招": "routine-026",
+    "动作": "舍身下式",
+    "类别": "routine",
+    "来源采样秒": 94.783221,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0237.jpg"
+  },
+  {
+    "序号": 239,
+    "文件名": "239_舍身下式.png",
+    "分招": "routine-026",
+    "动作": "舍身下式",
+    "类别": "routine",
+    "来源采样秒": 95.18322,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0238.jpg"
+  },
+  {
+    "序号": 240,
+    "文件名": "240_舍身下式.png",
+    "分招": "routine-026",
+    "动作": "舍身下式",
+    "类别": "routine",
+    "来源采样秒": 95.583219,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0239.jpg"
+  },
+  {
+    "序号": 241,
+    "文件名": "241_舍身下式.png",
+    "分招": "routine-026",
+    "动作": "舍身下式",
+    "类别": "routine",
+    "来源采样秒": 95.983218,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0240.jpg"
+  },
+  {
+    "序号": 242,
+    "文件名": "242_舍身下式.png",
+    "分招": "routine-026",
+    "动作": "舍身下式",
+    "类别": "routine",
+    "来源采样秒": 96.383217,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0241.jpg"
+  },
+  {
+    "序号": 243,
+    "文件名": "243_舍身下式.png",
+    "分招": "routine-026",
+    "动作": "舍身下式",
+    "类别": "routine",
+    "来源采样秒": 96.783215,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0242.jpg"
+  },
+  {
+    "序号": 244,
+    "文件名": "244_斜行单鞭.png",
+    "分招": "routine-027",
+    "动作": "斜行单鞭",
+    "类别": "routine",
+    "来源采样秒": 97.183214,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0243.jpg"
+  },
+  {
+    "序号": 245,
+    "文件名": "245_斜行单鞭.png",
+    "分招": "routine-027",
+    "动作": "斜行单鞭",
+    "类别": "routine",
+    "来源采样秒": 97.583213,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0244.jpg"
+  },
+  {
+    "序号": 246,
+    "文件名": "246_斜行单鞭.png",
+    "分招": "routine-027",
+    "动作": "斜行单鞭",
+    "类别": "routine",
+    "来源采样秒": 97.983212,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0245.jpg"
+  },
+  {
+    "序号": 247,
+    "文件名": "247_斜行单鞭.png",
+    "分招": "routine-027",
+    "动作": "斜行单鞭",
+    "类别": "routine",
+    "来源采样秒": 98.383211,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0246.jpg"
+  },
+  {
+    "序号": 248,
+    "文件名": "248_回身撩阴手.png",
+    "分招": "routine-028",
+    "动作": "回身撩阴手",
+    "类别": "routine",
+    "来源采样秒": 98.78321,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0247.jpg"
+  },
+  {
+    "序号": 249,
+    "文件名": "249_回身撩阴手.png",
+    "分招": "routine-028",
+    "动作": "回身撩阴手",
+    "类别": "routine",
+    "来源采样秒": 99.183209,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0248.jpg"
+  },
+  {
+    "序号": 250,
+    "文件名": "250_回身撩阴手.png",
+    "分招": "routine-028",
+    "动作": "回身撩阴手",
+    "类别": "routine",
+    "来源采样秒": 99.583208,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0249.jpg"
+  },
+  {
+    "序号": 251,
+    "文件名": "251_回身撩阴手.png",
+    "分招": "routine-028",
+    "动作": "回身撩阴手",
+    "类别": "routine",
+    "来源采样秒": 99.983207,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0250.jpg"
+  },
+  {
+    "序号": 252,
+    "文件名": "252_回身撩阴手.png",
+    "分招": "routine-028",
+    "动作": "回身撩阴手",
+    "类别": "routine",
+    "来源采样秒": 100.383206,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0251.jpg"
+  },
+  {
+    "序号": 253,
+    "文件名": "253_回身撩阴手.png",
+    "分招": "routine-028",
+    "动作": "回身撩阴手",
+    "类别": "routine",
+    "来源采样秒": 100.783205,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0252.jpg"
+  },
+  {
+    "序号": 254,
+    "文件名": "254_回身撩阴手.png",
+    "分招": "routine-028",
+    "动作": "回身撩阴手",
+    "类别": "routine",
+    "来源采样秒": 101.183204,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0253.jpg"
+  },
+  {
+    "序号": 255,
+    "文件名": "255_回身撩阴手.png",
+    "分招": "routine-028",
+    "动作": "回身撩阴手",
+    "类别": "routine",
+    "来源采样秒": 101.583202,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0254.jpg"
+  },
+  {
+    "序号": 256,
+    "文件名": "256_回身撩阴手.png",
+    "分招": "routine-028",
+    "动作": "回身撩阴手",
+    "类别": "routine",
+    "来源采样秒": 101.983201,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0255.jpg"
+  },
+  {
+    "序号": 257,
+    "文件名": "257_锦鸡抖翎.png",
+    "分招": "routine-029",
+    "动作": "锦鸡抖翎",
+    "类别": "routine",
+    "来源采样秒": 102.3832,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0256.jpg"
+  },
+  {
+    "序号": 258,
+    "文件名": "258_锦鸡抖翎.png",
+    "分招": "routine-029",
+    "动作": "锦鸡抖翎",
+    "类别": "routine",
+    "来源采样秒": 102.783199,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0257.jpg"
+  },
+  {
+    "序号": 259,
+    "文件名": "259_锦鸡抖翎.png",
+    "分招": "routine-029",
+    "动作": "锦鸡抖翎",
+    "类别": "routine",
+    "来源采样秒": 103.183198,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0258.jpg"
+  },
+  {
+    "序号": 260,
+    "文件名": "260_锦鸡抖翎.png",
+    "分招": "routine-029",
+    "动作": "锦鸡抖翎",
+    "类别": "routine",
+    "来源采样秒": 103.583197,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0259.jpg"
+  },
+  {
+    "序号": 261,
+    "文件名": "261_锦鸡抖翎.png",
+    "分招": "routine-029",
+    "动作": "锦鸡抖翎",
+    "类别": "routine",
+    "来源采样秒": 103.983196,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0260.jpg"
+  },
+  {
+    "序号": 262,
+    "文件名": "262_左撑掌.png",
+    "分招": "routine-030",
+    "动作": "左撑掌",
+    "类别": "routine",
+    "来源采样秒": 104.383195,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0261.jpg"
+  },
+  {
+    "序号": 263,
+    "文件名": "263_左撑掌.png",
+    "分招": "routine-030",
+    "动作": "左撑掌",
+    "类别": "routine",
+    "来源采样秒": 104.783194,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0262.jpg"
+  },
+  {
+    "序号": 264,
+    "文件名": "264_左撑掌.png",
+    "分招": "routine-030",
+    "动作": "左撑掌",
+    "类别": "routine",
+    "来源采样秒": 105.183193,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0263.jpg"
+  },
+  {
+    "序号": 265,
+    "文件名": "265_左撑掌.png",
+    "分招": "routine-030",
+    "动作": "左撑掌",
+    "类别": "routine",
+    "来源采样秒": 105.583192,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0264.jpg"
+  },
+  {
+    "序号": 266,
+    "文件名": "266_左撑掌.png",
+    "分招": "routine-030",
+    "动作": "左撑掌",
+    "类别": "routine",
+    "来源采样秒": 105.983191,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0265.jpg"
+  },
+  {
+    "序号": 267,
+    "文件名": "267_左撑掌.png",
+    "分招": "routine-030",
+    "动作": "左撑掌",
+    "类别": "routine",
+    "来源采样秒": 106.38319,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0266.jpg"
+  },
+  {
+    "序号": 268,
+    "文件名": "268_退步右撑掌.png",
+    "分招": "routine-031",
+    "动作": "退步右撑掌",
+    "类别": "routine",
+    "来源采样秒": 106.783189,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0267.jpg"
+  },
+  {
+    "序号": 269,
+    "文件名": "269_退步右撑掌.png",
+    "分招": "routine-031",
+    "动作": "退步右撑掌",
+    "类别": "routine",
+    "来源采样秒": 107.183186,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0268.jpg"
+  },
+  {
+    "序号": 270,
+    "文件名": "270_退步右撑掌.png",
+    "分招": "routine-031",
+    "动作": "退步右撑掌",
+    "类别": "routine",
+    "来源采样秒": 107.583185,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0269.jpg"
+  },
+  {
+    "序号": 271,
+    "文件名": "271_退步右撑掌.png",
+    "分招": "routine-031",
+    "动作": "退步右撑掌",
+    "类别": "routine",
+    "来源采样秒": 107.983184,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0270.jpg"
+  },
+  {
+    "序号": 272,
+    "文件名": "272_退步右撑掌.png",
+    "分招": "routine-031",
+    "动作": "退步右撑掌",
+    "类别": "routine",
+    "来源采样秒": 108.383183,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0271.jpg"
+  },
+  {
+    "序号": 273,
+    "文件名": "273_退步右撑掌.png",
+    "分招": "routine-031",
+    "动作": "退步右撑掌",
+    "类别": "routine",
+    "来源采样秒": 108.783182,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0272.jpg"
+  },
+  {
+    "序号": 274,
+    "文件名": "274_退步右撑掌.png",
+    "分招": "routine-031",
+    "动作": "退步右撑掌",
+    "类别": "routine",
+    "来源采样秒": 109.183181,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0273.jpg"
+  },
+  {
+    "序号": 275,
+    "文件名": "275_退步右撑掌.png",
+    "分招": "routine-031",
+    "动作": "退步右撑掌",
+    "类别": "routine",
+    "来源采样秒": 109.58318,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0274.jpg"
+  },
+  {
+    "序号": 276,
+    "文件名": "276_退步右撑掌.png",
+    "分招": "routine-031",
+    "动作": "退步右撑掌",
+    "类别": "routine",
+    "来源采样秒": 109.983179,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0275.jpg"
+  },
+  {
+    "序号": 277,
+    "文件名": "277_落步双挑掌.png",
+    "分招": "routine-032",
+    "动作": "落步双挑掌",
+    "类别": "routine",
+    "来源采样秒": 110.383178,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0276.jpg"
+  },
+  {
+    "序号": 278,
+    "文件名": "278_落步双挑掌.png",
+    "分招": "routine-032",
+    "动作": "落步双挑掌",
+    "类别": "routine",
+    "来源采样秒": 110.783177,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0277.jpg"
+  },
+  {
+    "序号": 279,
+    "文件名": "279_落步双挑掌.png",
+    "分招": "routine-032",
+    "动作": "落步双挑掌",
+    "类别": "routine",
+    "来源采样秒": 111.183176,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0278.jpg"
+  },
+  {
+    "序号": 280,
+    "文件名": "280_落步双挑掌.png",
+    "分招": "routine-032",
+    "动作": "落步双挑掌",
+    "类别": "routine",
+    "来源采样秒": 111.583175,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0279.jpg"
+  },
+  {
+    "序号": 281,
+    "文件名": "281_落步双挑掌.png",
+    "分招": "routine-032",
+    "动作": "落步双挑掌",
+    "类别": "routine",
+    "来源采样秒": 111.983174,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0280.jpg"
+  },
+  {
+    "序号": 282,
+    "文件名": "282_落步双挑掌.png",
+    "分招": "routine-032",
+    "动作": "落步双挑掌",
+    "类别": "routine",
+    "来源采样秒": 112.383171,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0281.jpg"
+  },
+  {
+    "序号": 283,
+    "文件名": "283_落步双挑掌.png",
+    "分招": "routine-032",
+    "动作": "落步双挑掌",
+    "类别": "routine",
+    "来源采样秒": 112.78317,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0282.jpg"
+  },
+  {
+    "序号": 284,
+    "文件名": "284_落步双挑掌.png",
+    "分招": "routine-032",
+    "动作": "落步双挑掌",
+    "类别": "routine",
+    "来源采样秒": 113.183169,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0283.jpg"
+  },
+  {
+    "序号": 285,
+    "文件名": "285_落步双挑掌.png",
+    "分招": "routine-032",
+    "动作": "落步双挑掌",
+    "类别": "routine",
+    "来源采样秒": 113.583168,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0284.jpg"
+  },
+  {
+    "序号": 286,
+    "文件名": "286_落步双挑掌.png",
+    "分招": "routine-032",
+    "动作": "落步双挑掌",
+    "类别": "routine",
+    "来源采样秒": 113.983166,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0285.jpg"
+  },
+  {
+    "序号": 287,
+    "文件名": "287_蹲步献肘.png",
+    "分招": "routine-033",
+    "动作": "蹲步献肘",
+    "类别": "routine",
+    "来源采样秒": 114.383165,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0286.jpg"
+  },
+  {
+    "序号": 288,
+    "文件名": "288_蹲步献肘.png",
+    "分招": "routine-033",
+    "动作": "蹲步献肘",
+    "类别": "routine",
+    "来源采样秒": 114.783164,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0287.jpg"
+  },
+  {
+    "序号": 289,
+    "文件名": "289_蹲步献肘.png",
+    "分招": "routine-033",
+    "动作": "蹲步献肘",
+    "类别": "routine",
+    "来源采样秒": 115.183163,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0288.jpg"
+  },
+  {
+    "序号": 290,
+    "文件名": "290_蹲步献肘.png",
+    "分招": "routine-033",
+    "动作": "蹲步献肘",
+    "类别": "routine",
+    "来源采样秒": 115.583162,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0289.jpg"
+  },
+  {
+    "序号": 291,
+    "文件名": "291_蹲步献肘.png",
+    "分招": "routine-033",
+    "动作": "蹲步献肘",
+    "类别": "routine",
+    "来源采样秒": 115.983161,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0290.jpg"
+  },
+  {
+    "序号": 292,
+    "文件名": "292_蹲步献肘.png",
+    "分招": "routine-033",
+    "动作": "蹲步献肘",
+    "类别": "routine",
+    "来源采样秒": 116.38316,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0291.jpg"
+  },
+  {
+    "序号": 293,
+    "文件名": "293_蹲步献肘.png",
+    "分招": "routine-033",
+    "动作": "蹲步献肘",
+    "类别": "routine",
+    "来源采样秒": 116.783159,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0292.jpg"
+  },
+  {
+    "序号": 294,
+    "文件名": "294_蹲步献肘.png",
+    "分招": "routine-033",
+    "动作": "蹲步献肘",
+    "类别": "routine",
+    "来源采样秒": 117.183157,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0293.jpg"
+  },
+  {
+    "序号": 295,
+    "文件名": "295_双抱肘.png",
+    "分招": "routine-034",
+    "动作": "双抱肘",
+    "类别": "routine",
+    "来源采样秒": 117.583156,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0294.jpg"
+  },
+  {
+    "序号": 296,
+    "文件名": "296_双抱肘.png",
+    "分招": "routine-034",
+    "动作": "双抱肘",
+    "类别": "routine",
+    "来源采样秒": 117.983155,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0295.jpg"
+  },
+  {
+    "序号": 297,
+    "文件名": "297_双抱肘.png",
+    "分招": "routine-034",
+    "动作": "双抱肘",
+    "类别": "routine",
+    "来源采样秒": 118.383153,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0296.jpg"
+  },
+  {
+    "序号": 298,
+    "文件名": "298_双抱肘.png",
+    "分招": "routine-034",
+    "动作": "双抱肘",
+    "类别": "routine",
+    "来源采样秒": 118.783152,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0297.jpg"
+  },
+  {
+    "序号": 299,
+    "文件名": "299_双抱肘.png",
+    "分招": "routine-034",
+    "动作": "双抱肘",
+    "类别": "routine",
+    "来源采样秒": 119.183151,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0298.jpg"
+  },
+  {
+    "序号": 300,
+    "文件名": "300_双抱肘.png",
+    "分招": "routine-034",
+    "动作": "双抱肘",
+    "类别": "routine",
+    "来源采样秒": 119.58315,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0299.jpg"
+  },
+  {
+    "序号": 301,
+    "文件名": "301_双抱肘.png",
+    "分招": "routine-034",
+    "动作": "双抱肘",
+    "类别": "routine",
+    "来源采样秒": 119.983149,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0300.jpg"
+  },
+  {
+    "序号": 302,
+    "文件名": "302_收式.png",
+    "分招": "routine-035",
+    "动作": "收式",
+    "类别": "routine",
+    "来源采样秒": 120.383148,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0301.jpg"
+  },
+  {
+    "序号": 303,
+    "文件名": "303_收式.png",
+    "分招": "routine-035",
+    "动作": "收式",
+    "类别": "routine",
+    "来源采样秒": 120.783147,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0302.jpg"
+  },
+  {
+    "序号": 304,
+    "文件名": "304_收式.png",
+    "分招": "routine-035",
+    "动作": "收式",
+    "类别": "routine",
+    "来源采样秒": 121.183146,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0303.jpg"
+  },
+  {
+    "序号": 305,
+    "文件名": "305_收式.png",
+    "分招": "routine-035",
+    "动作": "收式",
+    "类别": "routine",
+    "来源采样秒": 121.583145,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0304.jpg"
+  },
+  {
+    "序号": 306,
+    "文件名": "306_收式.png",
+    "分招": "routine-035",
+    "动作": "收式",
+    "类别": "routine",
+    "来源采样秒": 121.983144,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0305.jpg"
+  },
+  {
+    "序号": 307,
+    "文件名": "307_收式.png",
+    "分招": "routine-035",
+    "动作": "收式",
+    "类别": "routine",
+    "来源采样秒": 122.383143,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0306.jpg"
+  },
+  {
+    "序号": 308,
+    "文件名": "308_收式.png",
+    "分招": "routine-035",
+    "动作": "收式",
+    "类别": "routine",
+    "来源采样秒": 122.783141,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0307.jpg"
+  },
+  {
+    "序号": 309,
+    "文件名": "309_收式.png",
+    "分招": "routine-035",
+    "动作": "收式",
+    "类别": "routine",
+    "来源采样秒": 123.183139,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0308.jpg"
+  },
+  {
+    "序号": 310,
+    "文件名": "310_收式.png",
+    "分招": "routine-035",
+    "动作": "收式",
+    "类别": "routine",
+    "来源采样秒": 123.583138,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0309.jpg"
+  },
+  {
+    "序号": 311,
+    "文件名": "311_收式.png",
+    "分招": "routine-035",
+    "动作": "收式",
+    "类别": "routine",
+    "来源采样秒": 123.803324,
+    "来源URL": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "来源采样ID": "b-frame_0310.jpg"
+  },
+  {
+    "序号": 312,
+    "文件名": "312_两仪顶·短入桩定式补充.png",
+    "分招": "supp-01",
+    "动作": "两仪顶·短入桩定式补充",
+    "类别": "elbow",
+    "来源采样秒": 190.427043,
+    "来源URL": "https://www.youtube.com/watch?v=mlGl7kjr1NA",
+    "来源采样ID": "SUP-01-001"
+  },
+  {
+    "序号": 313,
+    "文件名": "313_两仪顶·短入桩定式补充.png",
+    "分招": "supp-01",
+    "动作": "两仪顶·短入桩定式补充",
+    "类别": "elbow",
+    "来源采样秒": 190.627043,
+    "来源URL": "https://www.youtube.com/watch?v=mlGl7kjr1NA",
+    "来源采样ID": "SUP-01-002"
+  },
+  {
+    "序号": 314,
+    "文件名": "314_两仪顶·短入桩定式补充.png",
+    "分招": "supp-01",
+    "动作": "两仪顶·短入桩定式补充",
+    "类别": "elbow",
+    "来源采样秒": 190.827042,
+    "来源URL": "https://www.youtube.com/watch?v=mlGl7kjr1NA",
+    "来源采样ID": "SUP-01-003"
+  },
+  {
+    "序号": 315,
+    "文件名": "315_两仪顶·短入桩定式补充.png",
+    "分招": "supp-01",
+    "动作": "两仪顶·短入桩定式补充",
+    "类别": "elbow",
+    "来源采样秒": 191.027042,
+    "来源URL": "https://www.youtube.com/watch?v=mlGl7kjr1NA",
+    "来源采样ID": "SUP-01-004"
+  },
+  {
+    "序号": 316,
+    "文件名": "316_两仪顶·短入桩定式补充.png",
+    "分招": "supp-01",
+    "动作": "两仪顶·短入桩定式补充",
+    "类别": "elbow",
+    "来源采样秒": 191.227041,
+    "来源URL": "https://www.youtube.com/watch?v=mlGl7kjr1NA",
+    "来源采样ID": "SUP-01-005"
+  },
+  {
+    "序号": 317,
+    "文件名": "317_收势献肘·补充.png",
+    "分招": "supp-02",
+    "动作": "收势献肘·补充",
+    "类别": "elbow",
+    "来源采样秒": 26.209287,
+    "来源URL": "https://www.youtube.com/watch?v=DnzZKZXqZ7U",
+    "来源采样ID": "SUP-02-007"
+  },
+  {
+    "序号": 318,
+    "文件名": "318_收势献肘·补充.png",
+    "分招": "supp-02",
+    "动作": "收势献肘·补充",
+    "类别": "elbow",
+    "来源采样秒": 26.742619,
+    "来源URL": "https://www.youtube.com/watch?v=DnzZKZXqZ7U",
+    "来源采样ID": "SUP-02-008"
+  },
+  {
+    "序号": 319,
+    "文件名": "319_收势献肘·补充.png",
+    "分招": "supp-02",
+    "动作": "收势献肘·补充",
+    "类别": "elbow",
+    "来源采样秒": 27.275951,
+    "来源URL": "https://www.youtube.com/watch?v=DnzZKZXqZ7U",
+    "来源采样ID": "SUP-02-009"
+  },
+  {
+    "序号": 320,
+    "文件名": "320_收势献肘·补充.png",
+    "分招": "supp-02",
+    "动作": "收势献肘·补充",
+    "类别": "elbow",
+    "来源采样秒": 27.809281,
+    "来源URL": "https://www.youtube.com/watch?v=DnzZKZXqZ7U",
+    "来源采样ID": "SUP-02-010"
+  },
+  {
+    "序号": 321,
+    "文件名": "321_收势献肘·补充.png",
+    "分招": "supp-02",
+    "动作": "收势献肘·补充",
+    "类别": "elbow",
+    "来源采样秒": 28.342613,
+    "来源URL": "https://www.youtube.com/watch?v=DnzZKZXqZ7U",
+    "来源采样ID": "SUP-02-011"
+  },
+  {
+    "序号": 322,
+    "文件名": "322_收势献肘·补充.png",
+    "分招": "supp-02",
+    "动作": "收势献肘·补充",
+    "类别": "elbow",
+    "来源采样秒": 28.875941,
+    "来源URL": "https://www.youtube.com/watch?v=DnzZKZXqZ7U",
+    "来源采样ID": "SUP-02-012"
+  },
+  {
+    "序号": 323,
+    "文件名": "323_收势献肘·补充.png",
+    "分招": "supp-02",
+    "动作": "收势献肘·补充",
+    "类别": "elbow",
+    "来源采样秒": 29.409274,
+    "来源URL": "https://www.youtube.com/watch?v=DnzZKZXqZ7U",
+    "来源采样ID": "SUP-02-013"
+  },
+  {
+    "序号": 324,
+    "文件名": "324_收势献肘·补充.png",
+    "分招": "supp-02",
+    "动作": "收势献肘·补充",
+    "类别": "elbow",
+    "来源采样秒": 29.942607,
+    "来源URL": "https://www.youtube.com/watch?v=DnzZKZXqZ7U",
+    "来源采样ID": "SUP-02-014"
+  },
+  {
+    "序号": 325,
+    "文件名": "325_收势献肘·补充.png",
+    "分招": "supp-02",
+    "动作": "收势献肘·补充",
+    "类别": "elbow",
+    "来源采样秒": 30.47594,
+    "来源URL": "https://www.youtube.com/watch?v=DnzZKZXqZ7U",
+    "来源采样ID": "SUP-02-015"
+  },
+  {
+    "序号": 326,
+    "文件名": "326_收势献肘·补充.png",
+    "分招": "supp-02",
+    "动作": "收势献肘·补充",
+    "类别": "elbow",
+    "来源采样秒": 31.009273,
+    "来源URL": "https://www.youtube.com/watch?v=DnzZKZXqZ7U",
+    "来源采样ID": "SUP-02-016"
+  },
+  {
+    "序号": 327,
+    "文件名": "327_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 0,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-001"
+  },
+  {
+    "序号": 328,
+    "文件名": "328_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 0.233331,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-002"
+  },
+  {
+    "序号": 329,
+    "文件名": "329_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 0.433329,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-003"
+  },
+  {
+    "序号": 330,
+    "文件名": "330_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 0.66666,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-004"
+  },
+  {
+    "序号": 331,
+    "文件名": "331_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 0.866658,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-005"
+  },
+  {
+    "序号": 332,
+    "文件名": "332_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 1.099989,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-006"
+  },
+  {
+    "序号": 333,
+    "文件名": "333_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 1.333322,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-007"
+  },
+  {
+    "序号": 334,
+    "文件名": "334_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 1.533321,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-008"
+  },
+  {
+    "序号": 335,
+    "文件名": "335_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 1.766653,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-009"
+  },
+  {
+    "序号": 336,
+    "文件名": "336_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 1.966652,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-010"
+  },
+  {
+    "序号": 337,
+    "文件名": "337_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 2.199984,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-011"
+  },
+  {
+    "序号": 338,
+    "文件名": "338_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 2.433317,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-012"
+  },
+  {
+    "序号": 339,
+    "文件名": "339_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 2.633316,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-013"
+  },
+  {
+    "序号": 340,
+    "文件名": "340_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 2.866648,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-014"
+  },
+  {
+    "序号": 341,
+    "文件名": "341_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 3.066647,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-015"
+  },
+  {
+    "序号": 342,
+    "文件名": "342_铁山靠·有靶遮挡补充.png",
+    "分招": "supp-03",
+    "动作": "铁山靠·有靶遮挡补充",
+    "类别": "kao",
+    "来源采样秒": 3.29998,
+    "来源URL": "https://www.youtube.com/watch?v=gVWY7j2HFyg",
+    "来源采样ID": "SUP-03-016"
+  }
+]

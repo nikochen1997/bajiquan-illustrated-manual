@@ -1,0 +1,103 @@
+{
+  "repairs": [
+    {
+      "segment": "routine-017",
+      "output_frames": [
+        1,
+        15
+      ],
+      "frames": 15,
+      "extra_images": 11,
+      "all_replaced_frames_pixel_equal": true,
+      "first_last_original_pixel_equal": true,
+      "page_sha256": "6e1188f25497f040a30fb74cb3df24897ab34ef7fc56cf2b22c939244c4528da"
+    },
+    {
+      "segment": "routine-018",
+      "output_frames": [
+        1,
+        15
+      ],
+      "frames": 15,
+      "extra_images": 11,
+      "all_replaced_frames_pixel_equal": true,
+      "first_last_original_pixel_equal": true,
+      "page_sha256": "40b6974f31550fae36381c634b96410eb355b75629a2444f81d16594244cf2ca"
+    },
+    {
+      "segment": "routine-026",
+      "output_frames": [
+        1,
+        15
+      ],
+      "frames": 15,
+      "extra_images": 11,
+      "all_replaced_frames_pixel_equal": true,
+      "first_last_original_pixel_equal": true,
+      "page_sha256": "13d9ad74febc5b8c5246b0a37fdd378ef278d14e1c53dc0ac0530d3414773f8d"
+    },
+    {
+      "segment": "routine-027",
+      "output_frames": [
+        15,
+        29
+      ],
+      "frames": 15,
+      "extra_images": 11,
+      "all_replaced_frames_pixel_equal": true,
+      "first_last_original_pixel_equal": true,
+      "page_sha256": "9a75eef5d7baafd5552ef5733da1543f91de08491bc264d278ad3a5d1b34f0c4"
+    },
+    {
+      "segment": "routine-030",
+      "output_frames": [
+        1,
+        15
+      ],
+      "frames": 15,
+      "extra_images": 11,
+      "all_replaced_frames_pixel_equal": true,
+      "first_last_original_pixel_equal": true,
+      "page_sha256": "f56b5ef2e49c75a402054ef067958a0f0d5fdb61b843c877f0961a66a2105732"
+    },
+    {
+      "segment": "routine-032",
+      "output_frames": [
+        1,
+        15
+      ],
+      "frames": 15,
+      "extra_images": 11,
+      "all_replaced_frames_pixel_equal": true,
+      "first_last_original_pixel_equal": true,
+      "page_sha256": "a0fe061fb2380b7b067a917d9cb242cd49d18df7d44e50705ba0498370997e88"
+    },
+    {
+      "segment": "supp-01",
+      "output_frames": [
+        1,
+        25
+      ],
+      "frames": 25,
+      "extra_images": 5,
+      "all_replaced_frames_pixel_equal": true,
+      "first_last_original_pixel_equal": true,
+      "page_sha256": "4077d1a1676958be51f277e0348bba70ea04558011505ed27eab650aa75bb4dc"
+    },
+    {
+      "segment": "supp-02",
+      "output_frames": [
+        1,
+        20
+      ],
+      "frames": 20,
+      "extra_images": 14,
+      "all_replaced_frames_pixel_equal": true,
+      "first_last_original_pixel_equal": true,
+      "page_sha256": "26538ee23fd841a84eff61f8196ffe1e613ca01c09ada9f86961915c984d2ab6"
+    }
+  ],
+  "total_checked_frames": 135,
+  "all_boundary_keys_equal": 16,
+  "visual_review": "8个区间全部135帧均实际看图，常规38段另有抽样；非全部4857帧逐张视觉认证"
+}

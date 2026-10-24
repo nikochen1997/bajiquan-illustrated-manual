@@ -1,0 +1,75 @@
+{
+  "objective": "已确认的完整小八极套路＋肘法、靠法补充，以单姿态古风图和连续视频交付",
+  "previous_goal_turn": "progress",
+  "current_turn": "progress：最终审计发现并修复弸字缺字，重导、重测、重打包并完成当前包独立核对",
+  "requirements": [
+    {
+      "requirement": "一套从起势到收式的完整套路",
+      "status": "proven",
+      "evidence": "同一主来源35段，source_range连续0–123.981；完整主片已全解码4469帧"
+    },
+    {
+      "requirement": "肘法和靠法补充",
+      "status": "proven",
+      "evidence": "3项独立补充：两仪顶短入桩、收势献肘、铁山靠；图与分招视频均在包中，保留来源范围和遮挡说明"
+    },
+    {
+      "requirement": "几百张一图一姿、同人物古风手绘",
+      "status": "proven",
+      "evidence": "342基础单图+85过渡单图=427；生成页逐页拆分核对，当前主起中收和3补充实际样图复核，均为同一角色的单姿态图"
+    },
+    {
+      "requirement": "补足中间姿势并连续放映",
+      "status": "proven",
+      "evidence": "24fps连续主片186.208333秒，另38分招；全部4857逐帧PNG已检查，八个密集修复区间135帧逐张查看"
+    },
+    {
+      "requirement": "单张图和播放视频一起交付",
+      "status": "proven",
+      "evidence": "427单图与39视频同包，全部4857逐帧另分2包；3包当前CRC通过，39包内视频与磁盘SHA一致"
+    },
+    {
+      "requirement": "来源及测试报告",
+      "status": "proven",
+      "evidence": "动作目录、完整来源CSV、测试报告、技术及修复记录已入包；33测试通过、1既有Bug用例跳过"
+    },
+    {
+      "requirement": "最终发现的标题缺字修复",
+      "status": "proven",
+      "evidence": "弸捶标题已实际目视完整，101帧人物ROI逐像素不变，当前新主片和新3包均已再次验证"
+    }
+  ],
+  "completion_proven": true,
+  "required_remaining_work": [],
+  "test_results": {
+    "passed": 33,
+    "known_bug_skipped": 1
+  },
+  "limits": [
+    "AI重绘及补间的细微拳掌、衣褶和角度仍为近似，未经拳师校订",
+    "视觉复核为逐段抽样及8区间全135帧，非4857帧逐张无瑕疵认证",
+    "附加HTML仅逻辑测试和本地引用核对，浏览器运行验收未做；核心MP4全解码通过"
+  ],
+  "files": [
+    {
+      "path": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/outputs/八极拳完整篇/八极拳-完整套路慢放.mp4",
+      "bytes": 15786823,
+      "sha256": "06ef617411b37d046678f76323151cc05202def50f54506624a38e00406ae044"
+    },
+    {
+      "path": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/outputs/八极拳完整篇/下载/八极拳-427张单姿势图与全部视频-part01.zip",
+      "bytes": 85878633,
+      "sha256": "965b943964a3ae11e5a2e51ccb52b3f71bc8fba2f47183e072fd35fee4e18671"
+    },
+    {
+      "path": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/outputs/八极拳完整篇/下载/八极拳-全部4857张逐帧图-part01.zip",
+      "bytes": 366778734,
+      "sha256": "fcd939ebd6ab1cff3164a9b004162ba8a7facc0c2f21e6bb95bfaa1710cc330f"
+    },
+    {
+      "path": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/outputs/八极拳完整篇/下载/八极拳-全部4857张逐帧图-part02.zip",
+      "bytes": 177902522,
+      "sha256": "03e6aee8c49a06f8831acb36ff6bad839e95693c1d5e830787446e60adfa906d"
+    }
+  ]
+}

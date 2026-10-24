@@ -1,0 +1,241 @@
+{
+  "controls": {
+    "id": "final-dense-supp-01",
+    "segment": "supp-01",
+    "frames": 25,
+    "output_frames": [
+      1,
+      25
+    ],
+    "original_boundary_keys": [
+      1,
+      2
+    ],
+    "page": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/generated/dense-supp-01.png",
+    "page_sha256": "4077d1a1676958be51f277e0348bba70ea04558011505ed27eab650aa75bb4dc",
+    "mapping": [
+      {
+        "cell": 1,
+        "source_seconds": 190.427043,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_supp/SUP-01/dense_entry/001.png"
+      },
+      {
+        "cell": 2,
+        "source_seconds": 190.466666,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_supp/SUP-01/dense_first/002.png"
+      },
+      {
+        "cell": 3,
+        "source_seconds": 190.499999,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_supp/SUP-01/dense_first/003.png"
+      },
+      {
+        "cell": 4,
+        "source_seconds": 190.533332,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_supp/SUP-01/dense_first/004.png"
+      },
+      {
+        "cell": 5,
+        "source_seconds": 190.566665,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_supp/SUP-01/dense_first/005.png"
+      },
+      {
+        "cell": 6,
+        "source_seconds": 190.599998,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_supp/SUP-01/dense_first/006.png"
+      },
+      {
+        "cell": 7,
+        "source_seconds": 190.627043,
+        "source_file": "/Users/chenjianhu/Documents/Codex/2026-10-23/new-chat/work/八极拳完整篇/source/captured_supp/SUP-01/dense_entry/002.png"
+      }
+    ],
+    "scale": 1.2456140350877194,
+    "fixed_dx": 150.13934531709347,
+    "ground_y": 666.0,
+    "first_last_reused_from_original": true,
+    "note": "额外控制图为实见源帧重绘，首末仍是原精选关键图；同页单一比例，不按每姿态bbox缩放。",
+    "external_plan_sha256": "3b97c8eedc1fcc7c419c3a2a48248031dd99e7f2765288f24e77d9034b6dfc72",
+    "base_manifest_sha256": "6cd789aa10e736f6403eee7b2090268ea0bbd6b1fd62163e1e1d893423b971e7"
+  },
+  "playback_mapping": [
+    {
+      "output_frame": 1,
+      "source_seconds": 190.427043,
+      "control_left": 1,
+      "control_right": 2,
+      "weight": 0.0
+    },
+    {
+      "output_frame": 2,
+      "source_seconds": 190.4369487,
+      "control_left": 1,
+      "control_right": 2,
+      "weight": 0.25
+    },
+    {
+      "output_frame": 3,
+      "source_seconds": 190.4468545,
+      "control_left": 1,
+      "control_right": 2,
+      "weight": 0.5
+    },
+    {
+      "output_frame": 4,
+      "source_seconds": 190.4567603,
+      "control_left": 1,
+      "control_right": 2,
+      "weight": 0.75
+    },
+    {
+      "output_frame": 5,
+      "source_seconds": 190.466666,
+      "control_left": 2,
+      "control_right": 3,
+      "weight": 0.0
+    },
+    {
+      "output_frame": 6,
+      "source_seconds": 190.4749992,
+      "control_left": 2,
+      "control_right": 3,
+      "weight": 0.25
+    },
+    {
+      "output_frame": 7,
+      "source_seconds": 190.4833325,
+      "control_left": 2,
+      "control_right": 3,
+      "weight": 0.5
+    },
+    {
+      "output_frame": 8,
+      "source_seconds": 190.4916658,
+      "control_left": 2,
+      "control_right": 3,
+      "weight": 0.75
+    },
+    {
+      "output_frame": 9,
+      "source_seconds": 190.499999,
+      "control_left": 3,
+      "control_right": 4,
+      "weight": 0.0
+    },
+    {
+      "output_frame": 10,
+      "source_seconds": 190.5083322,
+      "control_left": 3,
+      "control_right": 4,
+      "weight": 0.25
+    },
+    {
+      "output_frame": 11,
+      "source_seconds": 190.5166655,
+      "control_left": 3,
+      "control_right": 4,
+      "weight": 0.5
+    },
+    {
+      "output_frame": 12,
+      "source_seconds": 190.5249988,
+      "control_left": 3,
+      "control_right": 4,
+      "weight": 0.75
+    },
+    {
+      "output_frame": 13,
+      "source_seconds": 190.533332,
+      "control_left": 4,
+      "control_right": 5,
+      "weight": 0.0
+    },
+    {
+      "output_frame": 14,
+      "source_seconds": 190.5416652,
+      "control_left": 4,
+      "control_right": 5,
+      "weight": 0.25
+    },
+    {
+      "output_frame": 15,
+      "source_seconds": 190.5499985,
+      "control_left": 4,
+      "control_right": 5,
+      "weight": 0.5
+    },
+    {
+      "output_frame": 16,
+      "source_seconds": 190.5583317,
+      "control_left": 4,
+      "control_right": 5,
+      "weight": 0.75
+    },
+    {
+      "output_frame": 17,
+      "source_seconds": 190.566665,
+      "control_left": 5,
+      "control_right": 6,
+      "weight": 0.0
+    },
+    {
+      "output_frame": 18,
+      "source_seconds": 190.5749982,
+      "control_left": 5,
+      "control_right": 6,
+      "weight": 0.25
+    },
+    {
+      "output_frame": 19,
+      "source_seconds": 190.5833315,
+      "control_left": 5,
+      "control_right": 6,
+      "weight": 0.5
+    },
+    {
+      "output_frame": 20,
+      "source_seconds": 190.5916648,
+      "control_left": 5,
+      "control_right": 6,
+      "weight": 0.75
+    },
+    {
+      "output_frame": 21,
+      "source_seconds": 190.599998,
+      "control_left": 6,
+      "control_right": 7,
+      "weight": 0.0
+    },
+    {
+      "output_frame": 22,
+      "source_seconds": 190.6067592,
+      "control_left": 6,
+      "control_right": 7,
+      "weight": 0.25
+    },
+    {
+      "output_frame": 23,
+      "source_seconds": 190.6135205,
+      "control_left": 6,
+      "control_right": 7,
+      "weight": 0.5
+    },
+    {
+      "output_frame": 24,
+      "source_seconds": 190.6202818,
+      "control_left": 6,
+      "control_right": 7,
+      "weight": 0.75
+    },
+    {
+      "output_frame": 25,
+      "source_seconds": 190.627043,
+      "control_left": 7,
+      "control_right": 7,
+      "weight": 0.0
+    }
+  ],
+  "extra_images": 5,
+  "selected_key_image_count_unchanged": 342,
+  "total_playback_frames_unchanged": 4857
+}

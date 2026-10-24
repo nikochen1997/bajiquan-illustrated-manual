@@ -1,0 +1,156 @@
+{
+  "passed": true,
+  "python_tests": 27,
+  "viewer_js_tests": 7,
+  "total": 34,
+  "pipeline_tests": 21,
+  "repair_tests": 6,
+  "viewer_browser_runtime_tested": false,
+  "specifications": [
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_missing_unlocked_and_invalid_page",
+      "spec": "EXTRA-1 输入未锁定来源/缺图/越界格 → 验证 → 制作前拒绝。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_rare_title_character_has_visible_glyph_and_normal_font_stays",
+      "spec": "EXTRA-14 输入弸捶及普通招名 → 排版 → 弸有可见字形，普通招名字体保持原样。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_complete_routine_and_source_gaps",
+      "spec": "SPEC-1 输入缺起收/来源断段/跨段混姿势 → 验证 → 全部拒绝。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_finalize_selected_segment_preserves_other_outputs",
+      "spec": "EXTRA-13 输入已准备两段和finish既有文件 → 只导出start → finish逐字节不变，错误分招拒绝。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_known_bug_verify_closes_csv_handle",
+      "spec": "BUG-1 输入已导出的夹具 → verify并回收句柄 → 预期无CSV ResourceWarning，当前已知不满足。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_teacher_version_and_supplement_separation",
+      "spec": "SPEC-2 输入第二老师版本/补充篇混入主套路 → 验证 → 拒绝混用。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_time_frame_and_lift_boundaries",
+      "spec": "EXTRA-2 输入0/负/小数帧数、NaN时间和负离地量 → 验证 → 不造假补帧。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_support_airborne_unknown_registration",
+      "spec": "SPEC-3 输入支撑/单脚离地/腾空/未知 → 计算竖移 → 仅已知支撑拉地。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_cross_grid_body_preservation",
+      "spec": "EXTRA-3 输入越过名义格线的鞋底 → 透明缝拆格 → 有效人体像素守恒。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_real_outer_edge_cut_is_rejected",
+      "spec": "EXTRA-4 输入源页外缘切手 → prepare → 不能用完整输出掩盖缺手。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_unused_outer_edge_padding_is_allowed_and_reported",
+      "spec": "EXTRA-8 输入未选用末行填充格裁断 → prepare → 允许且记录警告，仍保留像素守恒。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_selected_outer_edge_padding_is_rejected",
+      "spec": "EXTRA-9 输入同一裁断末行格被清单选用 → prepare → 拒绝，不把填充格裁断掩为完整。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_no_seam_component_fallback_preserves_people",
+      "spec": "EXTRA-7 输入无全页透明缝但16个人物独立 → 连通域回退 → 手脚像素不丢不复制。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_prepare_shared_boundary_and_common_scale",
+      "spec": "SPEC-4 输入同源同时间接段 → prepare → 同姿态直接接续，共用比例。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_split_padding_does_not_move_nominal_pose",
+      "spec": "EXTRA-10 输入同姿态页但拆分padding不同 → 默认位移/head_match → 相同姿态仍同位置。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_page_art_scale_invalid_values_are_rejected",
+      "spec": "EXTRA-11 输入非正/NaN/无穷/布尔art_scale → 验证 → 制作前拒绝。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_page_art_scale_is_shared_across_different_poses",
+      "spec": "EXTRA-12 输入同页高低姿态及art_scale=0.9 → prepare → 整页同倍率且保留高低差。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_manifest_or_sprite_change_invalidates_cache",
+      "spec": "EXTRA-5 输入已准备后变更清单/源图 → 复用检查 → 拒绝旧结果冒充新来源。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_missing_rife_output_is_rejected",
+      "spec": "SPEC-5 输入缺末帧RIFE结果 → finalize → 拒绝断号，不复制帧凑数。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_end_to_end_png_video_source_tracking_and_packages",
+      "spec": "SPEC-6 输入两段小型RIFE结果夹具 → 编码/全解码/拼接/分包 → 帧序与来源可追踪。"
+    },
+    {
+      "file": "pipeline/test_pipeline.py",
+      "test": "test_zip_size_split_and_single_file_overflow",
+      "spec": "EXTRA-6 输入超包总量/超限单文件 → 分包 → 小包有界，巨单文件明确拒绝。"
+    },
+    {
+      "file": "test_repair.py",
+      "test": "test_only_requested_frames_replaced_and_originals_backed_up",
+      "spec": "SPEC-R1 输入6帧与修复2～3 → apply → 仅2～3变化，原图备份可还原。"
+    },
+    {
+      "file": "test_repair.py",
+      "test": "test_missing_repair_frame_fails_before_any_output_change",
+      "spec": "EXTRA-R1 输入少末帧修复 → apply → 拒绝，原6帧逐字节不变。"
+    },
+    {
+      "file": "test_repair.py",
+      "test": "test_provenance_times_and_outside_interval_preserved",
+      "spec": "SPEC-R2 输入实际控制时码 → 写CSV → 修复范围时码递增，其余源映射保留。"
+    },
+    {
+      "file": "test_repair.py",
+      "test": "test_interval_bounds_and_control_count",
+      "spec": "EXTRA-R2 输入0/负数/小数/倒序/越界 → 校验 → 制作前拒绝。"
+    },
+    {
+      "file": "test_repair.py",
+      "test": "test_external_plan_binds_manifest_segment_and_material_hashes",
+      "spec": "EXTRA-R3 输入独立修复计划 → 校验 → 绑定原清单/分招/两素材哈希，不修改原清单。"
+    },
+    {
+      "file": "test_repair.py",
+      "test": "test_boundary_registration_matches_same_pose_anchors_without_middle_bbox",
+      "spec": "EXTRA-R4 输入首末同姿态锚尺寸不同 → 配准 → 两端宽高准确，中途只线性取两锚，不按中间姿态缩放。"
+    }
+  ],
+  "commands": [
+    "cd work/八极拳完整篇/pipeline && python3 -B -m unittest -v test_pipeline",
+    "cd work/八极拳完整篇 && python3 -B -m unittest -v test_repair",
+    "node work/八极拳完整篇/test_viewer.js"
+  ],
+  "known_nonblocking_warning": "batch.py:532 CSV文件句柄ResourceWarning，测试仍通过。",
+  "passed_count": 33,
+  "skipped_count": 1,
+  "pipeline_passed": 20,
+  "known_skipped_test": "BUG-1 verify CSV句柄关闭"
+}

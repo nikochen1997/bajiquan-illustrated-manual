@@ -1,0 +1,1279 @@
+{
+  "technical": "passed",
+  "visual": "38段抽样复核已完成，八个修复区间135帧另逐张查看；非全部4857帧无瑕疵认证，不作为拳法教学校订通过",
+  "segments": [
+    {
+      "segment": "routine-001",
+      "png_count": 144,
+      "pixel_unique": 132,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "6.000000",
+          "nb_frames": "144"
+        },
+        "decoded": 144,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.6901966333389282,
+            "psnr": 44.45891934131589
+          },
+          {
+            "frame": 73,
+            "mae": 0.7125781178474426,
+            "psnr": 44.20796852553538
+          },
+          {
+            "frame": 144,
+            "mae": 0.7161054611206055,
+            "psnr": 44.13589634596343
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-002",
+      "png_count": 173,
+      "pixel_unique": 161,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "7.208333",
+          "nb_frames": "173"
+        },
+        "decoded": 173,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7066080570220947,
+            "psnr": 44.29231352133378
+          },
+          {
+            "frame": 87,
+            "mae": 0.6772571802139282,
+            "psnr": 44.72473195511653
+          },
+          {
+            "frame": 173,
+            "mae": 0.6907044053077698,
+            "psnr": 44.52183344732824
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-003",
+      "png_count": 202,
+      "pixel_unique": 190,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "8.416667",
+          "nb_frames": "202"
+        },
+        "decoded": 202,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.679085910320282,
+            "psnr": 44.664531228165394
+          },
+          {
+            "frame": 102,
+            "mae": 0.7183417677879333,
+            "psnr": 44.033179081476206
+          },
+          {
+            "frame": 202,
+            "mae": 0.7028599977493286,
+            "psnr": 44.36551981656446
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-004",
+      "png_count": 144,
+      "pixel_unique": 132,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "6.000000",
+          "nb_frames": "144"
+        },
+        "decoded": 144,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.6883580684661865,
+            "psnr": 44.56841541974739
+          },
+          {
+            "frame": 73,
+            "mae": 0.7352766990661621,
+            "psnr": 43.724244738468514
+          },
+          {
+            "frame": 144,
+            "mae": 0.696533203125,
+            "psnr": 44.42928721728385
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-005",
+      "png_count": 115,
+      "pixel_unique": 104,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "4.791667",
+          "nb_frames": "115"
+        },
+        "decoded": 115,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.6986868381500244,
+            "psnr": 44.43920941190639
+          },
+          {
+            "frame": 58,
+            "mae": 0.7451601624488831,
+            "psnr": 43.68046474492503
+          },
+          {
+            "frame": 115,
+            "mae": 0.694908857345581,
+            "psnr": 44.41774342500981
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-006",
+      "png_count": 187,
+      "pixel_unique": 175,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "7.791667",
+          "nb_frames": "187"
+        },
+        "decoded": 187,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.6839062571525574,
+            "psnr": 44.60428099744924
+          },
+          {
+            "frame": 94,
+            "mae": 0.7691041827201843,
+            "psnr": 43.49675392415407
+          },
+          {
+            "frame": 187,
+            "mae": 0.743567705154419,
+            "psnr": 44.0031889304403
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-007",
+      "png_count": 202,
+      "pixel_unique": 190,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "8.416667",
+          "nb_frames": "202"
+        },
+        "decoded": 202,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7618704438209534,
+            "psnr": 43.80042524009951
+          },
+          {
+            "frame": 102,
+            "mae": 0.8102402091026306,
+            "psnr": 43.10578999109022
+          },
+          {
+            "frame": 202,
+            "mae": 0.7387454509735107,
+            "psnr": 44.07697196822564
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-008",
+      "png_count": 187,
+      "pixel_unique": 175,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "7.791667",
+          "nb_frames": "187"
+        },
+        "decoded": 187,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7498476505279541,
+            "psnr": 44.01406972730949
+          },
+          {
+            "frame": 94,
+            "mae": 0.7457063794136047,
+            "psnr": 43.77239005257421
+          },
+          {
+            "frame": 187,
+            "mae": 0.6982526183128357,
+            "psnr": 44.48673042871816
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-009",
+      "png_count": 173,
+      "pixel_unique": 161,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "7.208333",
+          "nb_frames": "173"
+        },
+        "decoded": 173,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7080051898956299,
+            "psnr": 44.37540319575049
+          },
+          {
+            "frame": 87,
+            "mae": 0.7574511766433716,
+            "psnr": 43.488308306262475
+          },
+          {
+            "frame": 173,
+            "mae": 0.7012434601783752,
+            "psnr": 44.418823348155065
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-010",
+      "png_count": 158,
+      "pixel_unique": 146,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "6.583333",
+          "nb_frames": "158"
+        },
+        "decoded": 158,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7076165080070496,
+            "psnr": 44.3519704238009
+          },
+          {
+            "frame": 80,
+            "mae": 0.7307779788970947,
+            "psnr": 43.99261163672616
+          },
+          {
+            "frame": 158,
+            "mae": 0.6960546970367432,
+            "psnr": 44.497237853916936
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-011",
+      "png_count": 245,
+      "pixel_unique": 233,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "10.208333",
+          "nb_frames": "245"
+        },
+        "decoded": 245,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7112903594970703,
+            "psnr": 44.360975327385404
+          },
+          {
+            "frame": 123,
+            "mae": 0.7652623653411865,
+            "psnr": 43.666158947883645
+          },
+          {
+            "frame": 245,
+            "mae": 0.7070702910423279,
+            "psnr": 44.34719614263825
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-012",
+      "png_count": 101,
+      "pixel_unique": 90,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "4.208333",
+          "nb_frames": "101"
+        },
+        "decoded": 101,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7138177156448364,
+            "psnr": 44.26209062369295
+          },
+          {
+            "frame": 51,
+            "mae": 0.7346451878547668,
+            "psnr": 43.848977661998305
+          },
+          {
+            "frame": 101,
+            "mae": 0.690834641456604,
+            "psnr": 44.50350575492183
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-013",
+      "png_count": 144,
+      "pixel_unique": 132,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "6.000000",
+          "nb_frames": "144"
+        },
+        "decoded": 144,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.717411458492279,
+            "psnr": 44.14076975583234
+          },
+          {
+            "frame": 73,
+            "mae": 0.7485729455947876,
+            "psnr": 43.655896447855824
+          },
+          {
+            "frame": 144,
+            "mae": 0.6936712265014648,
+            "psnr": 44.53760922108628
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-014",
+      "png_count": 143,
+      "pixel_unique": 131,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "5.958333",
+          "nb_frames": "143"
+        },
+        "decoded": 143,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.717361330986023,
+            "psnr": 44.259871684890044
+          },
+          {
+            "frame": 72,
+            "mae": 0.6927975416183472,
+            "psnr": 44.45595465548411
+          },
+          {
+            "frame": 143,
+            "mae": 0.7050683498382568,
+            "psnr": 44.32756167480106
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-015",
+      "png_count": 187,
+      "pixel_unique": 175,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "7.791667",
+          "nb_frames": "187"
+        },
+        "decoded": 187,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7097727656364441,
+            "psnr": 44.23349032923791
+          },
+          {
+            "frame": 94,
+            "mae": 0.7068789005279541,
+            "psnr": 44.29975479370718
+          },
+          {
+            "frame": 187,
+            "mae": 0.7425898313522339,
+            "psnr": 43.97308683100729
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-016",
+      "png_count": 130,
+      "pixel_unique": 118,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "5.416667",
+          "nb_frames": "130"
+        },
+        "decoded": 130,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7297682166099548,
+            "psnr": 44.080454390779565
+          },
+          {
+            "frame": 66,
+            "mae": 0.7429577112197876,
+            "psnr": 43.866827287546
+          },
+          {
+            "frame": 130,
+            "mae": 0.7055514454841614,
+            "psnr": 44.3714552486862
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-017",
+      "png_count": 101,
+      "pixel_unique": 90,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "4.208333",
+          "nb_frames": "101"
+        },
+        "decoded": 101,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7588854432106018,
+            "psnr": 43.738338240857445
+          },
+          {
+            "frame": 51,
+            "mae": 0.7761523723602295,
+            "psnr": 43.723393089877135
+          },
+          {
+            "frame": 101,
+            "mae": 0.757902979850769,
+            "psnr": 43.83341428607235
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-018",
+      "png_count": 72,
+      "pixel_unique": 61,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "3.000000",
+          "nb_frames": "72"
+        },
+        "decoded": 72,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.8139238357543945,
+            "psnr": 43.17625732676669
+          },
+          {
+            "frame": 37,
+            "mae": 0.7984915375709534,
+            "psnr": 43.25549548667173
+          },
+          {
+            "frame": 72,
+            "mae": 0.7358157634735107,
+            "psnr": 44.04982801434079
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-019",
+      "png_count": 72,
+      "pixel_unique": 61,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "3.000000",
+          "nb_frames": "72"
+        },
+        "decoded": 72,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.758635401725769,
+            "psnr": 43.75479053843308
+          },
+          {
+            "frame": 37,
+            "mae": 0.7583535313606262,
+            "psnr": 43.420671825754184
+          },
+          {
+            "frame": 72,
+            "mae": 0.6931620836257935,
+            "psnr": 44.42847706189009
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-020",
+      "png_count": 72,
+      "pixel_unique": 61,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "3.000000",
+          "nb_frames": "72"
+        },
+        "decoded": 72,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.6726263165473938,
+            "psnr": 44.716667002917376
+          },
+          {
+            "frame": 37,
+            "mae": 0.7316992282867432,
+            "psnr": 44.01329812819198
+          },
+          {
+            "frame": 72,
+            "mae": 0.7022682428359985,
+            "psnr": 44.42655713359539
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-021",
+      "png_count": 48,
+      "pixel_unique": 37,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "2.000000",
+          "nb_frames": "48"
+        },
+        "decoded": 48,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7285592555999756,
+            "psnr": 44.14882438879503
+          },
+          {
+            "frame": 25,
+            "mae": 0.7439615726470947,
+            "psnr": 43.95324735892829
+          },
+          {
+            "frame": 48,
+            "mae": 0.7401347756385803,
+            "psnr": 44.09197114021974
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-022",
+      "png_count": 72,
+      "pixel_unique": 61,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "3.000000",
+          "nb_frames": "72"
+        },
+        "decoded": 72,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7618847489356995,
+            "psnr": 43.87657272088475
+          },
+          {
+            "frame": 37,
+            "mae": 0.7790566682815552,
+            "psnr": 43.628002742077584
+          },
+          {
+            "frame": 72,
+            "mae": 0.7268275022506714,
+            "psnr": 44.29286161140137
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-023",
+      "png_count": 101,
+      "pixel_unique": 90,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "4.208333",
+          "nb_frames": "101"
+        },
+        "decoded": 101,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7309134006500244,
+            "psnr": 44.23828314012681
+          },
+          {
+            "frame": 51,
+            "mae": 0.7405611872673035,
+            "psnr": 43.85367160970311
+          },
+          {
+            "frame": 101,
+            "mae": 0.691985011100769,
+            "psnr": 44.53700084264285
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-024",
+      "png_count": 72,
+      "pixel_unique": 61,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "3.000000",
+          "nb_frames": "72"
+        },
+        "decoded": 72,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7181412577629089,
+            "psnr": 44.259294199171954
+          },
+          {
+            "frame": 37,
+            "mae": 0.7585761547088623,
+            "psnr": 43.79215855066765
+          },
+          {
+            "frame": 72,
+            "mae": 0.709425151348114,
+            "psnr": 44.42469803966729
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-025",
+      "png_count": 86,
+      "pixel_unique": 75,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "3.583333",
+          "nb_frames": "86"
+        },
+        "decoded": 86,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.702994167804718,
+            "psnr": 44.50037314222208
+          },
+          {
+            "frame": 44,
+            "mae": 0.7326393127441406,
+            "psnr": 44.22258149778996
+          },
+          {
+            "frame": 86,
+            "mae": 0.7144296765327454,
+            "psnr": 44.33095145209215
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-026",
+      "png_count": 158,
+      "pixel_unique": 146,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "6.583333",
+          "nb_frames": "158"
+        },
+        "decoded": 158,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7557168006896973,
+            "psnr": 43.800715203272716
+          },
+          {
+            "frame": 80,
+            "mae": 0.7455032467842102,
+            "psnr": 43.67822375554263
+          },
+          {
+            "frame": 158,
+            "mae": 0.6865631341934204,
+            "psnr": 44.539102463369986
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-027",
+      "png_count": 58,
+      "pixel_unique": 48,
+      "adjacent_same": 10,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "2.416667",
+          "nb_frames": "58"
+        },
+        "decoded": 58,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7222129106521606,
+            "psnr": 44.02366496943037
+          },
+          {
+            "frame": 30,
+            "mae": 0.7084420323371887,
+            "psnr": 44.34501125308111
+          },
+          {
+            "frame": 58,
+            "mae": 0.7369928359985352,
+            "psnr": 44.094852346343615
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-028",
+      "png_count": 130,
+      "pixel_unique": 118,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "5.416667",
+          "nb_frames": "130"
+        },
+        "decoded": 130,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7331523299217224,
+            "psnr": 44.14560107366566
+          },
+          {
+            "frame": 66,
+            "mae": 0.8045293092727661,
+            "psnr": 43.06742799901228
+          },
+          {
+            "frame": 130,
+            "mae": 0.738455057144165,
+            "psnr": 43.996645695888894
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-029",
+      "png_count": 72,
+      "pixel_unique": 61,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "3.000000",
+          "nb_frames": "72"
+        },
+        "decoded": 72,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7474654912948608,
+            "psnr": 43.89671605846815
+          },
+          {
+            "frame": 37,
+            "mae": 0.7835670709609985,
+            "psnr": 43.344269810479396
+          },
+          {
+            "frame": 72,
+            "mae": 0.7652799487113953,
+            "psnr": 43.807726435717456
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-030",
+      "png_count": 86,
+      "pixel_unique": 75,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "3.583333",
+          "nb_frames": "86"
+        },
+        "decoded": 86,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7930240631103516,
+            "psnr": 43.469079849258506
+          },
+          {
+            "frame": 44,
+            "mae": 0.7194101810455322,
+            "psnr": 44.17438677219201
+          },
+          {
+            "frame": 86,
+            "mae": 0.7411790490150452,
+            "psnr": 43.94286704393921
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-031",
+      "png_count": 130,
+      "pixel_unique": 118,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "5.416667",
+          "nb_frames": "130"
+        },
+        "decoded": 130,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7507246136665344,
+            "psnr": 43.843797175460224
+          },
+          {
+            "frame": 66,
+            "mae": 0.7556107044219971,
+            "psnr": 43.454148333309426
+          },
+          {
+            "frame": 130,
+            "mae": 0.727336585521698,
+            "psnr": 44.081977759199134
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-032",
+      "png_count": 144,
+      "pixel_unique": 132,
+      "adjacent_same": 12,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "6.000000",
+          "nb_frames": "144"
+        },
+        "decoded": 144,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7690631747245789,
+            "psnr": 43.51288538895386
+          },
+          {
+            "frame": 73,
+            "mae": 0.7167467474937439,
+            "psnr": 44.10065447637527
+          },
+          {
+            "frame": 144,
+            "mae": 0.6706686019897461,
+            "psnr": 44.65750457238748
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-033",
+      "png_count": 115,
+      "pixel_unique": 104,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "4.791667",
+          "nb_frames": "115"
+        },
+        "decoded": 115,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.6760104298591614,
+            "psnr": 44.63588082306682
+          },
+          {
+            "frame": 58,
+            "mae": 0.7130032777786255,
+            "psnr": 43.97826197141388
+          },
+          {
+            "frame": 115,
+            "mae": 0.682115912437439,
+            "psnr": 44.532560089587946
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-034",
+      "png_count": 101,
+      "pixel_unique": 90,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "4.208333",
+          "nb_frames": "101"
+        },
+        "decoded": 101,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.6789374947547913,
+            "psnr": 44.577842605427456
+          },
+          {
+            "frame": 51,
+            "mae": 0.7285853028297424,
+            "psnr": 43.804771368148046
+          },
+          {
+            "frame": 101,
+            "mae": 0.6604752540588379,
+            "psnr": 44.73203637885916
+          }
+        ]
+      }
+    },
+    {
+      "segment": "routine-035",
+      "png_count": 144,
+      "pixel_unique": 132,
+      "adjacent_same": 11,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "6.000000",
+          "nb_frames": "144"
+        },
+        "decoded": 144,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.6722636818885803,
+            "psnr": 44.58465175043112
+          },
+          {
+            "frame": 73,
+            "mae": 0.6706523299217224,
+            "psnr": 44.640786877427956
+          },
+          {
+            "frame": 144,
+            "mae": 0.6476237177848816,
+            "psnr": 44.912342012752646
+          }
+        ]
+      }
+    },
+    {
+      "segment": "supp-01",
+      "png_count": 96,
+      "pixel_unique": 76,
+      "adjacent_same": 20,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "4.000000",
+          "nb_frames": "96"
+        },
+        "decoded": 96,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7473763227462769,
+            "psnr": 43.89393403101345
+          },
+          {
+            "frame": 49,
+            "mae": 0.7614452838897705,
+            "psnr": 43.76248756336251
+          },
+          {
+            "frame": 96,
+            "mae": 0.7329218983650208,
+            "psnr": 44.19744918422069
+          }
+        ]
+      }
+    },
+    {
+      "segment": "supp-02",
+      "png_count": 173,
+      "pixel_unique": 157,
+      "adjacent_same": 16,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "7.208333",
+          "nb_frames": "173"
+        },
+        "decoded": 173,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7176504135131836,
+            "psnr": 43.965987863513114
+          },
+          {
+            "frame": 87,
+            "mae": 0.7056347727775574,
+            "psnr": 43.96940740789994
+          },
+          {
+            "frame": 173,
+            "mae": 0.677442729473114,
+            "psnr": 44.43784523623159
+          }
+        ]
+      }
+    },
+    {
+      "segment": "supp-03",
+      "png_count": 119,
+      "pixel_unique": 113,
+      "adjacent_same": 6,
+      "video": {
+        "metadata": {
+          "width": 640,
+          "height": 800,
+          "avg_frame_rate": "24/1",
+          "duration": "4.958008",
+          "nb_frames": "119"
+        },
+        "decoded": 119,
+        "samples": [
+          {
+            "frame": 1,
+            "mae": 0.7649257779121399,
+            "psnr": 43.95799878270911
+          },
+          {
+            "frame": 60,
+            "mae": 0.8102858066558838,
+            "psnr": 43.27769860884758
+          },
+          {
+            "frame": 119,
+            "mae": 0.7259238362312317,
+            "psnr": 44.229317979201255
+          }
+        ]
+      }
+    }
+  ],
+  "warnings": [
+    "supp-03关键态1：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态2：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态3：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态4：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态5：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态6：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态7：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态8：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态9：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态10：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态11：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态12：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态13：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态14：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态15：unknown，保留源竖坐标，不推断落地",
+    "supp-03关键态16：unknown，保留源竖坐标，不推断落地"
+  ],
+  "visual_review_evidence": "测试报告.md、修复逐帧核对.json；首末及八个区间实际看图记录另存工作QA，标题缺字已目视复核并核对人物区不变。"
+}

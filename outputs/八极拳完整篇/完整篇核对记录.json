@@ -1,0 +1,96 @@
+{
+  "routine_order": [
+    "routine-001",
+    "routine-002",
+    "routine-003",
+    "routine-004",
+    "routine-005",
+    "routine-006",
+    "routine-007",
+    "routine-008",
+    "routine-009",
+    "routine-010",
+    "routine-011",
+    "routine-012",
+    "routine-013",
+    "routine-014",
+    "routine-015",
+    "routine-016",
+    "routine-017",
+    "routine-018",
+    "routine-019",
+    "routine-020",
+    "routine-021",
+    "routine-022",
+    "routine-023",
+    "routine-024",
+    "routine-025",
+    "routine-026",
+    "routine-027",
+    "routine-028",
+    "routine-029",
+    "routine-030",
+    "routine-031",
+    "routine-032",
+    "routine-033",
+    "routine-034",
+    "routine-035"
+  ],
+  "supplements_separate": [
+    "supp-01",
+    "supp-02",
+    "supp-03"
+  ],
+  "main_source": {
+    "url": "https://www.youtube.com/watch?v=nfBG8Je-wVY",
+    "teacher": "hsu363发布的前景示范者（独立片未署姓名）",
+    "version": "小八极·35字幕段",
+    "locked": true,
+    "locked_scope": "只指该独立片字幕名称、顺序和完整起收已实见核对；不等于拳师技术审定，独立片未署示范者姓名",
+    "range": [
+      0,
+      123.981
+    ],
+    "complete_range": [
+      0,
+      123.981
+    ],
+    "caption_alignment_file": "source/main_alignment.json",
+    "reference_capture_range": [
+      0,
+      123.803324
+    ],
+    "last_pose_hold_from": 123.803324,
+    "last_pose_hold_until": 123.981
+  },
+  "frames": 4469,
+  "duration_seconds": 186.20833333333334,
+  "video": {
+    "metadata": {
+      "width": 640,
+      "height": 800,
+      "avg_frame_rate": "24/1",
+      "duration": "186.208333",
+      "nb_frames": "4469"
+    },
+    "decoded": 4469,
+    "samples": [
+      {
+        "frame": 1,
+        "mae": 0.6901966333389282,
+        "psnr": 44.45891934131589
+      },
+      {
+        "frame": 2235,
+        "mae": 0.6907005310058594,
+        "psnr": 44.48273678929966
+      },
+      {
+        "frame": 4469,
+        "mae": 0.6476237177848816,
+        "psnr": 44.912342012752646
+      }
+    ]
+  },
+  "joins": "相邻段同源同时间边界复用透明姿态后直接拼接，无跨段神经混姿势；共享边界有1个播放帧停顿。"
+}
